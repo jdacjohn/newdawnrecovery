@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_ed.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Eating Disorder &raquo; Calendar</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style1 {
+  color: #10A09E;
+  font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.style3 {font-size: 16px}
+-->
+</style>
+<style type="text/css">
+<!--
+.style4 {color: #660066}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../_CSS/Templates/www_ed.css" rel="stylesheet" type="text/css" />
+<link href="../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../_JS/_selected_nav_ed.js"></script>
+<script language="javascript" src="../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../index.html"><img src="../_IMAGES/Templates/www_main/header_logo_ed.gif" width="262" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/">Home</a> &raquo; <a href="/eating-disorder/index.html">Eating Disorder</a> &raquo; Calendar<!-- InstanceEndEditable --></span></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" id="body_content">
+              <tr>
+                <td class="left" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../eating-disorder/">Overview</a></li>
+                      <li id="about"><a href="about/index.html">About New Dawn</a></li>
+                      <ul id="about-group" class="sub">
+                        <li id="about-us"><a href="about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../eating-disorder/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../eating-disorder/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="treatment-options/index.html">Treatment Options</a></li>
+                      <ul id="treatment-options-group" class="sub">
+                        <li id="residential"><a href="treatment-options/residential.html">Residential</a></li>
+                        <li id="day-treatment"><a href="treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="outpatient-services"><a href="treatment-options/outpatient-services.html">Outpatient Services</a></li>
+                        <li id="housing-options"><a href="treatment-options/housing-options.html">Housing Options</a></li>
+                        <!--<li id="aftercare"><a href="../eating-disorder/treatment-options/aftercare.html">Aftercare</a></li>-->
+                        <li id="group-therapy-descriptions"><a href="treatment-options/group-therapy-descriptions.html">Group Therapy</a></li>
+                      </ul>
+                      <li id="facilities"><a href="facilities/index.html">Facilities</a></li>
+                      <ul id="facilities-group" class="sub">
+                        <li id="outpatient"><a href="facilities/outpatient.html">Outpatient</a></li>
+                        <li id="residential"><a href="facilities/residential.html">Residential</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="our-staff.html">Our Staff</a></li>
+                      <li id="admissions"><a href="admissions/index.html">Admissions/Fees</a></li>
+                      <ul id="admissions-group" class="sub">
+                        <li id="our-fees"><a href="admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="admissions/using-insurance.html">Using Insurance</a></li>
+                      </ul>
+                      <li id="resources"><a href="resources/index.html">Resources</a></li>
+                      <ul id="resources-group" class="sub">
+                        <li id="accreditations-affiliations"><a href="resources/accreditations-affiliations.html">Accreditations & Affiliations</a></li>
+                        <li id="assessment-tool"><a href="resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="contact-us/index.html">Contact Us</a></li>
+                      <ul id="contact-us-group" class="sub">
+                        <li id="driving-directions"><a href="contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+                  <script language="javascript">
+							MarkSelectedNav();
+						</script>
+                  <div id="banner_lc"><a href="/eating-disorder/admissions/index.html"><img src="../_IMAGES/templates/www_ed/banner_lc_ed.gif" width="184" height="68" border="0" /></a></div>
+                  <div id="banner_lc"><a href="/eating-disorder/about/newsletter.html"><img src="../_IMAGES/templates/www_ed/banner_lc_newsletter_ed.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" valign="top">
+					<div class="content"><!-- InstanceBeginEditable name="Body" -->
+							<h1>Calendar of Events </h1>
+							<p align="center" class="style1 style3 style4" style="margin-bottom: 0;">New Dawn is sponsoring an amazing event presented by</p>
+<p align="center" class="style1 style3" style="margin-top: 0; margin-bottom: 0;"><img src="images/beyondhungermod_000.jpg" width="300" height="180" /></p>
+<p align="center" style="margin-top:0;margin-bottom:0;"><span class="style4"><strong>Thursday April 22, 2010, San Rafael @ 
+Rafael Film Center</strong></span></p>
+<p align="center" style="margin-top:0; margin-bottom: 0;"><span class="style4"><strong>&amp; </strong></span></p>
+<p align="center" style="margin-top:0;"><span class="style4"><strong>Thursday May 13,   2010, San Francisco</strong></span></p>
+<p align="center"><span class="style4"><strong><a href="http://www.beyondhunger.org/general%20poster.JPG" target="_blank">Click here for a flyer of the event <br />
+</a></strong></span></p>
+<p align="center" style="margin-bottom: 0;"><span class="style4"><strong><img src="images/mibf_000.png" width="503" height="129" /></strong></span></p>
+<table width="686" border="0">
+  <tr valign="top">
+    <td width="92">&nbsp;</td>
+    <td width="491"><p align="center" style="margin-top: 0; margin-bottom: 0;"><span class="style4"><strong><em><strong>May I Be Frank </strong></em><strong></strong>documents the transformation of Frank   Ferrante's life, a 54 year old man who is depressed, addicted, full of   self-loathing, and yet quite loveable</strong></span><span class="style4"><strong>. </strong></span><span class="style4"><strong>He stumbles into Caf&eacute; Gratitude in   San Francisco, a local raw, organic and vegan restaurant and is lovingly taken   on as a project by the caf&eacute;'s managers, three young men.<br />
+              <br />
+      Through Frank's   story of love, redemption, and transformation, the viewers witness the power of   change for themselves and the world. </strong></span></p>
+      <p align="center" style="margin-top:0;"><span class="style4"><strong><br />
+        Join us afterwards for a panel   discussion about healthy relationships with ourselves, our bodies and our   earth. </strong></span><span style="font-size:18px;"><strong><br />
+</strong></span></p>
+      <p align="center" class="style3" style="margin-bottom: 0;"> <strong>Seating is limited so be sure to buy tickets   early!</strong> </p>
+      <p align="center" class="style3" style="margin-top: 0; margin-bottom: 0;">$20 General Admission</p></td>
+    <td width="89">&nbsp;</td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<blockquote style="margin-bottom: 0;">
+  <div align="center"></div>
+  <div align="center"></div>
+  </blockquote>
+				  <!-- InstanceEndEditable --></div>
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2010 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="privacy-policies.html">Privacy Policies</a> | <a href="contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../_IMAGES/templates/www_main/footer_carf.gif" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

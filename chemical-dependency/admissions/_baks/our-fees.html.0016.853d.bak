@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_cd.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chemical Dependency &raquo; Admissions/Fees &raquo; Our Fees</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style13 {
+  color: #163D63;
+  font-weight: bold;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../../_CSS/Templates/www_cd.css" rel="stylesheet" type="text/css" />
+<link href="../../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../../_JS/_selected_nav_cd.js"></script>
+<script language="javascript" src="../../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../../index.html"><img src="../../_IMAGES/Templates/www_main/header_logo_cd.gif" width="258" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/index.html">Home</a> &raquo; <a href="/chemical-dependency/index.html">Chemical Dependency</a> &raquo; <a href="index.html">Admissions/Fees</a> &raquo; Our Fees <!-- InstanceEndEditable --></span></div>
+            <table width="888" cellpadding="0" cellspacing="0" border="0" id="body_content">
+              <tr>
+                <td class="left" width="220" valign="top"><div id="tmpl_lc">
+                    <ul style="margin-bottom: 0">
+                      <li id="overview"><a href="../../chemical-dependency/">Overview</a></li>
+                      <li id="about"><a href="../about/index.html">About New Dawn</a></li>
+                      <ul class="sub" id="about-group">
+                        <li id="about-us"><a href="../about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="../about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="../about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="../about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../chemical-dependency/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../chemical-dependency/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="../treatment-options/index.html">Treatment Options</a></li>
+                      <ul class="sub" id="treatment-options-group">
+                        <li id="medically-monitored-detox"><a href="../treatment-options/medically-monitored-detox.html">Detox</a></li>
+                        <li id="residential-program"><a href="../treatment-options/residential-program.html">Residential Program</a></li>
+                        <li id="day-treatment"><a href="../treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="../treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="teen-outpatient-treatment"><a href="../treatment-options/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="lifetime-aftercare"><a href="../treatment-options/lifetime-aftercare.html">Lifetime Aftercare</a></li>
+                      </ul>
+                      <li id="facilities"><a href="../facilities/index.html">Facilities</a></li>
+                      <ul class="sub" id="facilities-group">
+                        <li id="detox"><a href="../facilities/detox.html">Detox</a></li>
+                        <li id="residential"><a href="../facilities/residential.html">Residential</a></li>
+                        <li id="adult-outpatient-facilities"><a href="../facilities/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient-facilities"><a href="../facilities/teen-outpatient.html">Teen Outpatient</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="../our-staff/index.html">Our Staff</a></li>
+                      <ul class="sub" id="our-staff-group">
+                        <li id="detox-residential"><a href="../our-staff/detox-residential.html">Detox &amp; Residential</a></li>
+                        <li id="adult-outpatient"><a href="../our-staff/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient"><a href="../our-staff/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="leadership"><a href="../our-staff/leadership.html">Leadership</a></li>
+                      </ul>
+                      <li id="success-stories"><a href="../success-stories.html">Success Stories</a></li>
+                      <li id="admissions"><a href="index.html">Admissions/Fees</a></li>
+                      <ul class="sub" id="admissions-group">
+                        <li id="our-fees"><a href="our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="using-insurance.html">Using Insurance</a></li>
+                        <li id="extended-care-discount"><a href="extended-care-discount.html">Extended Care Discount</a></li>
+                        <li id="what-to-bring"><a href="what-to-bring.html">What to Bring</a></li>
+                      </ul>
+                      <li id="resources"><a href="../resources/index.html">Resources</a></li>
+                      <ul class="sub" id="resources-group">
+                        <li id="accreditations-affiliations"><a href="../resources/accreditations-affiliations.html">Accreditations &amp; Affiliations</a></li>
+                        <li id="assessment-tool"><a href="../resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="../resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="../contact-us/index.html">Contact Us</a></li>
+                      <ul class="sub" id="contact-us-group">
+                        <li id="driving-directions"><a href="../contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="../contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="../newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="../calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="../faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+				  <script language="JavaScript" type="text/javascript">
+							MarkSelectedNav();
+						</script>
+				  <div id="banner_lc"><a href="/chemical-dependency/admissions/index.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/newsletter.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_newsletter_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/assessment.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_assessment_cd.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" width="668" valign="top"><div class="content"><!-- InstanceBeginEditable name="Body" -->
+                      <h1>A Note About Our Program Fees</h1>
+                      <p><span style="font-family:Times New Roman;font-size:16px;"><span style="font-family:tahoma;font-size:15px;color:#333333;">Because <strong>New Dawn is an In-Network Participating  Provider with most insurance payers</strong>, our clients receive the highest  benefit level of coverage possible under their plan. Moreover, New Dawn handles  all benefit and eligibility verifications, insurance pre-certification and  authorization requests, and insurance billing and follow-up to ensure that  out-of-pocket expenses are minimized as much as possible. </span></span></p>
+                      <p><span style="font-family:Times New Roman;font-size:16px;"><span style="font-family:tahoma;font-size:15px;color:#333333;">For those who are not  using insurance, New Dawn&rsquo;s drug and alcohol treatment programs are among the  most affordable in California. Additionally, our program fees are <strong>all  inclusive</strong>, meaning there are no additional charges for individual therapy,  family therapy, assessments, field trips, program materials, health club access,  acupuncture, life coaching, etc.&nbsp;</span></span></p>
+                      <p><span style="font-family:Times New Roman;font-size:16px;"><strong><em><span style="font-family:tahoma;font-size:15px;color:#333333;">For more information  about our current program rates, please contact our Intake Department at (toll  free) 866-969-4300 or 916-969-4300.</span></em></strong></span></p>
+                    <table width="665" border="0">
+                      <tr valign="top">
+                        <td width="99" align="right" valign="middle"><img src="images/13-1.jpg" width="86" height="71" /></td>
+                        <td width="443" align="center" valign="middle"><p class="style13" style="margin-top:0;margin-bottom:0;">New Dawn understands   that financial issues can be huge barriers to treatment, and we will work with   you to </p>
+                        <p style="margin-top:0;margin-bottom:0;"><span style="font-size:21px; color:#163D63;"><strong>minimize those   barriers!&nbsp;</strong></span></p></td>
+                        <td width="109" valign="top"><img src="images/13-2.jpg" width="86" height="71" /></td>
+                      </tr>
+                    </table>
+                    <p style="margin-bottom: 0;">&nbsp;</p>
+<p style="margin-top: 0;">Our Private Pay program  fees are as follows:</p>
+                      <h4>Interventions</h4>
+                      <ul type="disc">
+                        <li>$1,000 <strong></strong></li>
+                        <li>Expenses included for interventions within 50       miles of Sacramento, CA.</li>
+                    </ul>
+					<hr size="1" />
+                      <h4>Self Pay Inpatient Charges for  Adults </h4>
+                    <blockquote style="margin-bottom: 0;">
+                        <p class="style13">Detoxification, Stabilization,  Medication Management and  Introduction to Chemical Dependency Recovery</p>
+                        <ul>
+                          <li>$5,000  for 10 day program ($4000 if paying in full at admission - a 20% discount) </li>
+                          <li>$500  for each additional day if medically necessary</li>
+                      </ul>
+                        <p class="style13"> Residential Treatment Options</p>
+                        <ul>
+                          <li>$12,000  for 30 day program - when Phase I is not medically necessary 
+($9,000 if paying in full at admission -  a 25% discount)</li>
+                          <li>  $14,000 for 30 day program including Detox ($10,500 if paying in full at admission - a 25% discount)</li>
+                          <li>$400  for each additional day or for non-covered day if you are using insurance</li>
+                      </ul>
+                        <p class="style13"> Extended Stay / Transitional  Rehabilitation</p>
+                        <ul style="margin-bottom: 0;">
+                          <li>$10,000 for each additional 30 days - following  successful completion of Phase II and subject to  availability 
+($7,500 when paying in full at the beginning of each 30   day period - a 25% discount)</li>
+                      </ul>
+                    </blockquote>
+					<hr size="1" />
+                      <h4>Outpatient Services for Adults</h4>
+                    <blockquote>
+                        <p class="style13">Day Treatment </p>
+                        <ul>
+                          <li>$4000 for 20 sessions (6 hrs/day) </li>
+                      </ul>
+                        <p>&nbsp;<br />
+                          <span class="style13">Intensive Outpatient </span></p>
+                        <ul>
+                          <li>$5000 for 40 sessions (3 hrs/day)</li>
+                      </ul>
+                    </blockquote>
+					<hr size="1" />
+                      <h4>Outpatient Services for Adolescents <br />
+                        (financial assistance may be available through CAREs)</h4>
+                      <blockquote>
+                        <p class="style13">Day Treatment </p>
+                        <ul>
+                          <li>$5000 for 20 sessions (6 hrs/day) </li>
+                      </ul>
+                        <p class="style13">Intensive Outpatient </p>
+                        <ul>
+                          <li>$6000 for 40 sessions (3 hrs/day)<strong>&nbsp;</strong></li>
+                      </ul>
+                    </blockquote>
+					<hr size="1" />
+                      <h4>Relapse Prevention / AfterCare Program</h4>
+                    <ul type="disc">
+                      
+  <li><span style="font-family:Times New Roman;font-size:16px;color:#333333;"><span style="font-family:tahoma;font-size:15px;">Free for LIFE for program completers! Our AfterCare       program consists of a weekly group focusing on relapse prevention and       transitional recovery skills.&nbsp; This program is facilitated by our       certified addictions counseling staff, and individual sessions are also       available.</span></span></li>
+  </ul>
+					<ul type="disc">
+					  <li><span style="font-family:Times New Roman;font-size:16px;color:#333333;"><span style="font-family:tahoma;font-size:15px;">For those not completing the program, Aftercare is       available for free for the first month following treatment.&nbsp; Thereafter, Aftercare will be provided       at a cost of $200 per month (this includes four sessions which are offered       every Saturday). </span></span></li>
+				    </ul>
+					<p style="margin-bottom: 0;">&nbsp;</p>
+<hr size="1" />
+                      <h4>Cost of Treatment  vs. Cost of Substance Dependence</h4>
+                      <blockquote>
+                        <p>Unfortunately, drug and alcohol treatment programs by and  large are not inexpensive. However if you take into account the financial  problems that will persist if you don&rsquo;t free yourself from your addiction, such  as the legal costs associated with a DWI/DUI ($15,000 - $20,000), Divorce  ($15,000 - $30,000), Liver Transplant ($314,000), or Stroke ($140,000), or the  costs associated with job loss or injury, the cost of treatment to avoid these  likely consequences is MINOR! </p>
+                        <p>When considering a program, try to focus more than anything  else on the quality of the staff, the variety of program components and the  clinical approach, because these three criteria will be the most determinative  for your success, other than your own personal commitment to your recovery of  course!</p>
+                    </blockquote>
+					<hr size="1" />
+                      <h4>Financial  Assistance is Available</h4>
+                      <blockquote>
+                        <p style="margin-bottom: 0;"><span style="font-family:Times New Roman;font-size:16px;"><span style="font-family:tahoma;font-size:15px;color:#333333;">For those requiring  financial assistance, <a href="http://www.mlendfinancial.com/apply.htm">M-Lend Financial</a> and                      <a href="http://www.clarkbhf.com/">Clark Behavioral</a> has partnered with  New Dawn to offer flexible financing for all the services that we offer, and in  most cases <strong>payments are less than $500  per month!</strong>&nbsp; Interest rates are dependent on one&rsquo;s credit score, and  there are many loan repayment options available.&nbsp; For more information  please call us at 916-969-4300.&nbsp; </span></span></p>
+                    </blockquote>
+                <!-- InstanceEndEditable --></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2010 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="../privacy-policies.html">Privacy Policies</a> | <a href="../contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../../_IMAGES/Templates/www_main/footer_carf.gif" width="121" height="22" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body><!-- InstanceEnd -->
+</html>

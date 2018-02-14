@@ -1,0 +1,143 @@
+html {
+height:100%;
+font-family:Tahoma,Arial, Helvetica, sans-serif;
+text-align:justify;
+font-size:11px;
+}
+body {
+	height: 100%;
+	margin: 0px;
+	background-color:#EEEEEE;
+}
+td,tr,p,div {
+font-family:Tahoma,Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#444444;
+}
+.webcontainer {
+width:100%;
+background:url(images/bg.jpg) repeat-x #EEEEEE;
+}
+a:link {
+text-decoration:none;
+color:#003366;
+}
+a:hover {
+text-decoration:none;
+color:#003366;;
+}
+a:visited {
+text-decoration:none;
+color:#666666;
+}
+.table_top_content {
+background:url(images/table_top_bg.jpg);
+height:115px !important;
+}
+.table_middle_content {
+background:url(images/table_middle_bg.jpg);
+}
+.table_bottom_content {
+background:url(images/table_bottom_bg.jpg);
+height:10px !important;
+}
+.header_table {
+background:url(images/header_bg.jpg);
+height:115px;
+}
+
+input {
+border: 1px solid #444444;
+font-weight:bold;
+color: #ff6600;
+padding:1px;
+font-size:10px;
+margin: 3px 0px 3px 0px;
+}
+
+.time {
+font-family:Tahoma,Arial, Helvetica, sans-serif;
+font-size:9px;
+color:#686868;
+}
+
+
+/* ********************************************************************************************************** */
+#navi {
+float: center;
+text-align: center;
+font-size: 1.1em;
+padding: 0px;
+margin: 0 1px 0px 0;
+display: inline;
+}
+
+#navi ul, #navi ol, #navi p, #navi form, #navi dl {
+text-align: left;
+padding:0px;
+margin:0px;
+
+}
+
+#navi div {
+margin: 10px 10px 10px 10px;
+text-align: left;
+}
+
+#navi h2 {
+font: verdana, sans-serif;
+color: #FFFFFF;
+margin: 3px;
+background: #759D00 url(images/th_bg.gif) repeat-x;
+text-align: left;
+font-size:10px;
+padding:3px;
+padding-left:10px;
+
+}
+
+#navi a {
+padding:4px;
+padding-left:15px;
+background:url(images/arrow.gif) no-repeat;
+border-bottom:0px solid #cbcbcb;
+color:#666666;
+line-height:170%;
+margin:10px 10px 10px 10px;
+width:100%;
+
+}
+
+#navi a:hover {
+padding:4px;
+padding-left:15px;
+background:url(images/arrow_orange.gif) no-repeat;
+border-bottom:0px solid #cbcbcb;
+color:#002b89;
+}
+
+#navi ul {
+list-style: none;
+margin: .5em 0 1em 0;
+}
+
+#navi ul ul {
+margin: 2px 0 2px 7px;
+padding: 0;
+}
+
+#navi .navi-search {
+margin-bottom: 3px;
+width: 150px;
+font-size: 1em;
+}
+
+.sg1 {
+	background: url(images/banner_01.jpg) no-repeat;
+	width:28px;height:16px;	
+}
+.sg2 {
+	background: url(images/banner_02.jpg) no-repeat;
+	height:16px;	
+}
+/* ********************************************************************************************************** */

@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_cd.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chemical Dependency &raquo; Treatment Options &raquo; Medically Monitored Detox</title>
+<meta name="keywords" content="alcoholism, alcohol, alcoholic, Alcoholics Anonymous, AA, addiction, recovery, hazelden, hazeldon, treatment, treatment center, rehab, 12 steps, drugs, substance abuse, chemical dependency, chemical dependency, rehabilitation, codependency, dependency, programs, alcoholics, al-anon, addicts, addict, relapse, alcohol dependency, family programs, children programs, children of alcoholics, ACA,  ACoA, drugs and kids, women, social workers, drug and alcoholism counselors, cocaine, heroin, Sacramento, Northern California, Citrus Heights, California, Roseville, Auburn,  New Dawn, New Dawn Recovery Center, new dawn sacramento, treatment facilities, california drug treatment, drug rehabs, drug rehab for women, addiction rehab, residential treatment program, centers recovery, sacramento recovery centers, cocaine rehab, dual diagnosis facility, inpatient treatment, drug and alcohol rehabilitation, adolescent treatment, alcohol treatment, drug rehabilitation center, roseville detox, recovery centers for women, sacramento alcoholism treatment, sacramento treatment centers, substance treatment center, drug treatment program, methamphetamine treatment, meth treatment, california treatment center, chemical dependency center, residential treatment, adolescent day treatment, chemical dependency centers, youth treatment center, new dawn recovery, new dawn, new dawn recovery center, " />
+<meta name="description" content="Our medically monitored detox facilities were updated in 2006 for maximum comfort, with back patios, backyards with seating areas and tv's in all of the rooms." />
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../_CSS/Templates/www_cd.css" rel="stylesheet" type="text/css" />
+<link href="../../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../../_JS/_selected_nav_cd.js"></script>
+<script language="javascript" src="../../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../../index.html"><img src="../../_IMAGES/Templates/www_main/header_logo_cd.gif" width="258" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/index.html">Home</a> &raquo; <a href="/chemical-dependency/index.html">Chemical Dependency</a> &raquo; <a href="index.html">Treatment Options</a> &raquo; Medically Monitored Detox<!-- InstanceEndEditable --></span></div>
+            <table width="888" cellpadding="0" cellspacing="0" border="0" id="body_content">
+              <tr>
+                <td class="left" width="220" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../../chemical-dependency/">Overview</a></li>
+                      <li id="about"><a href="../about/index.html">About New Dawn</a></li>
+                      <ul class="sub" id="about-group">
+                        <li id="about-us"><a href="../about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="../about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="../about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="../about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../chemical-dependency/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../chemical-dependency/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="index.html">Treatment Options</a></li>
+                      <ul class="sub" id="treatment-options-group">
+                        <li id="medically-monitored-detox"><a href="medically-monitored-detox.html">Detox</a></li>
+                        <li id="residential-program"><a href="residential-program.html">Residential Program</a></li>
+                        <li id="day-treatment"><a href="day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="teen-outpatient-treatment"><a href="teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="lifetime-aftercare"><a href="lifetime-aftercare.html">Lifetime Aftercare</a></li>
+                      </ul>
+                      <li id="facilities"><a href="../facilities/index.html">Facilities</a></li>
+                      <ul class="sub" id="facilities-group">
+                        <li id="detox"><a href="../facilities/detox.html">Detox</a></li>
+                        <li id="residential"><a href="../facilities/residential.html">Residential</a></li>
+                        <li id="adult-outpatient-facilities"><a href="../facilities/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient-facilities"><a href="../facilities/teen-outpatient.html">Teen Outpatient</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="../our-staff/index.html">Our Staff</a></li>
+                      <ul class="sub" id="our-staff-group">
+                        <li id="detox-residential"><a href="../our-staff/detox-residential.html">Detox &amp; Residential</a></li>
+                        <li id="adult-outpatient"><a href="../our-staff/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient"><a href="../our-staff/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="leadership"><a href="../our-staff/leadership.html">Leadership</a></li>
+                      </ul>
+                      <li id="success-stories"><a href="../success-stories.html">Success Stories</a></li>
+                      <li id="admissions"><a href="../admissions/index.html">Admissions/Fees</a></li>
+                      <ul class="sub" id="admissions-group">
+                        <li id="our-fees"><a href="../admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="../admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="../admissions/using-insurance.html">Using Insurance</a></li>
+                        <li id="extended-care-discount"><a href="../admissions/extended-care-discount.html">Extended Care Discount</a></li>
+                        <li id="what-to-bring"><a href="../admissions/what-to-bring.html">What to Bring</a></li>
+                      </ul>
+                      <li id="resources"><a href="../resources/index.html">Resources</a></li>
+                      <ul class="sub" id="resources-group">
+                        <li id="accreditations-affiliations"><a href="../resources/accreditations-affiliations.html">Accreditations &amp; Affiliations</a></li>
+                        <li id="assessment-tool"><a href="../resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="../resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="../contact-us/index.html">Contact Us</a></li>
+                      <ul class="sub" id="contact-us-group">
+                        <li id="driving-directions"><a href="../contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="../contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="../newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="../calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="../faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+				  <script language="JavaScript" type="text/javascript">
+							MarkSelectedNav();
+						</script>
+				  <div id="banner_lc"><a href="/chemical-dependency/admissions/index.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/newsletter.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_newsletter_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/assessment.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_assessment_cd.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" width="668" valign="top"><div class="content"><!-- InstanceBeginEditable name="Body" -->
+                      <h1>Medically Monitored Detox</h1>
+                      <h4>About the  Facilities</h4>
+                      <blockquote>
+                        <p>Few Inpatient programs can provide Detox services in a  setting that is separate and distinct from their Residential Program because of the expense  involved with more real-estate and additional staff. &nbsp;However, because our goal is to provide the  maximum level of privacy and confidentiality, our Detox houses are separate  from our Residential Treatment facilities, yet only by a block so that all the  services and support provided by the Residential Programs are also available to  the Detox patients. </p>
+                        <p>There are two adjacent Detox facilities &ndash; one for men and one for women,  totaling ten beds altogether. These facilities were updated in late 2006 to  provide a more comfortable and pleasant setting for our patients. The Detox  houses now have side and back patios, backyards with seating areas, and  televisions in all of the rooms to make the Detox phase as easy as possible. We  believe that the added staff support and privacy afforded to our Detox patients  makes their stay a less distracting, quieter and more relaxing one. </p>
+                      </blockquote>
+                      <h4>About the Program</h4>
+					  <blockquote>
+					    <p>Our program has its own dedicated  24 hour staff consisting of a nurse, a certified addiction counselor and  medical assistants. It is designed to provide a safe, comfortable environment  that supports the needs of those requiring sub-acute, quasi-medical care.&nbsp; Typically, the detoxification period ranges  from 7-14 days depending on each individual&rsquo;s physical and psychological  condition and the rate at which they progress through the withdrawal period. </p>
+					    <p style="margin-bottom: 0;">In order to assist with the  uncomfortable symptoms that often accompany the withdrawal period, Psychiatric  Evaluations, Follow-ups and Medication Management are provided for every  client. Additionally, participation in Individual and group counseling are  available to those who are ready to begin the next phase of treatment. &nbsp;Residential and/or Outpatient treatment is stressed as a  necessary next step in the recovery process to help ensure that the chance for  relapse is reduced as much as possible.&nbsp;  While Detox is covered by most insurance plans, if you plan on paying  for Detox, please see our  fees page. </p>
+				    </blockquote>
+					  <!-- InstanceEndEditable --></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2007 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="../privacy-policies.html">Privacy Policies</a> | <a href="../contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../../_IMAGES/Templates/www_main/footer_carf.gif" width="121" height="22" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

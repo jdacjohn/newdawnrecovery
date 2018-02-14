@@ -1,0 +1,532 @@
+body { margin: 0px; padding: 0px; background: #e8dccf url('../images/siteBg003.jpg') repeat; color: #6d6e71; font-family: Lusitana, Georgia, serif; font-size: 16px; line-height: 24px; }
+body a { color: #509baa;}
+body a:hover { color: #eba85e;}
+body, html { height: 100% }
+
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
+
+
+H1 { font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #eba85e; font-size: 30px; line-height: 32px; margin-top: 0px;}
+H2 { font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #509baa; font-size: 22px;}
+div.ExpandingDiv h2 {margin-bottom:7px;}
+H3 { font-family: 'Droid Sans', sans-serif; font-weight: 400; color: #fff; font-size: 24px; text-shadow: 0px 1px 1px rgba(145, 104, 80, 1); margin-top: 0px; margin-bottom: 12px;}
+H4 { font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #fff; font-size: 15px; text-transform: uppercase; text-shadow: 0px 1px 1px rgba(145, 104, 80, 1); margin-bottom: 5px; margin-top: 10px; }
+H3.MainContentH3 { font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #509baa !important; font-size: 22px !important; text-shadow: none !important; margin-top: 20px !important;}
+H3.locations { font-family: 'Droid Sans', sans-serif; font-weight: 400; color: #EBA85D; font-size: 20px; text-shadow: none !important; margin-top: 20px !important;}
+H3.locations2 { font-family: 'Droid Sans', sans-serif; font-weight: 400; color: #EBA85D; font-size: 20px; text-shadow: none !important; margin:0px !important;}
+H3.staff { font-family: 'Droid Sans', sans-serif; font-weight: 400; color: #EBA85D; font-size: 20px; text-shadow: none !important; margin-top: 20px !important;}
+
+div.staffTitles {font-size:14px; padding:0 0 5px 15px;}
+
+#Wrap { 
+	margin: auto; 
+	width: 977px; 
+	margin-top: 30px; 
+	position: relative; 
+	min-height: 100%;
+}
+
+.breadcrumbs { font-style: italic; color: #6d6e71; font-size: 14px; font-family: Georgia, serif;}
+.breadcrumbs a { color: #6d6e71; text-decoration: none; }
+.searchStyle { background: white url('http://www.newdawnts.org/images/Search_btn.png') top right no-repeat; border-radius: 20px; width: 180px; color: #6d6e71; height: 20px; padding: 0 0px 0 10px;}
+
+/** HEADER DIVS **/
+#header { 
+	background: url('http://www.newdawnts.org/images/headerBg.png') no-repeat; 
+	width: 977px; 
+	height: 168px; 
+	display: block; 
+}
+#logo a { 
+	background: url('http://www.newdawnts.org/images/logo.jpg') no-repeat; 
+	width: 317px; 
+	height: 94px; 
+	display: block; 
+	text-indent: -3000px; 
+	position: relative; 
+	float: left; 
+	margin: 55px 0 0 30px;
+}
+
+#phone { 
+	font-family: 'Droid Sans', sans-serif; 
+	font-weight: 700; 
+	color: #6d6e71; 
+	font-size: 18px; 
+	position: relative; 
+	float: left; 
+	width: 230px; 
+	line-height: 28px; 
+	margin: 85px 0px 0 390px;
+}
+#phone span { 
+	color: #eba85e; 
+	font-size: 34px; 
+	font-weight: bold;
+}
+
+#chat { 
+	background: url('http://www.newdawnts.org/images/ChatBg.png') no-repeat; 
+	width: 222px; 
+	height: 130px; 
+	display: block; 
+	position: relative; 
+	float: left; 
+	margin: 38px 0 0 45px; 
+ }
+#chatText { 
+	color: #fff; 
+	font-size: 16px; 
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 1); 
+	line-height: 18px; 
+	padding: 36px 20px 10px 10px;
+}
+#chatText span { 
+	font-size: 25px; 
+	font-weight: bold; 
+	padding-bottom: 7px;}
+#chat_button a { 
+	background: url('http://www.newdawnts.org/images/ChatNow_Btn.png') no-repeat; 
+	width: 93px; 
+	height: 27px; 
+	display: block; 
+	text-indent: -3000px; 
+	margin-top: 5px;
+}
+/** END HEADER DIVS **/
+
+/** NAVIGATION **/
+#nav { 
+	background: #6d6e71; /* Old browsers */
+	background: -moz-linear-gradient(top,  #6d6e71 0%, #666666 99%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6d6e71), color-stop(99%,#666666)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #6d6e71 0%,#666666 99%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #6d6e71 0%,#666666 99%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #6d6e71 0%,#666666 99%); /* IE10+ */
+	background: linear-gradient(to bottom,  #6d6e71 0%,#666666 99%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d6e71', endColorstr='#666666',GradientType=0 ); /* IE6-9 */
+	height: 50px; width: 977px; border-bottom: 1px solid #616161; }
+
+#nav2 {
+	list-style:none;
+	font-weight: 400;
+	font-family: Lusitana, Georgia, serif; 
+}
+#nav2 li { float:left; }
+#nav2 ul {
+	position:absolute;
+	width:1px;
+	height:1px;
+	top: 0px;
+	overflow:hidden;
+	list-style:none;
+	margin: 0px; 
+	padding: 0px;
+}
+#nav2 ul li { float:none; }
+#nav2 li:hover ul {
+	top:auto;
+	width:auto;
+	height:auto;
+	overflow:visible;
+}
+#nav2 a {
+	display:block;
+	padding: 5px 28px 0;
+	font-size: 16px;
+	height: 45px;
+	border-right: 1px solid #9c9c9c;
+	color:#fff;
+	text-decoration:none;
+	line-height: 20px;
+}
+#nav2 a:hover, #nav li:hover a {
+	background: #4a4a4a;
+	color:#fff;
+ 	z-index: 500;
+}
+#nav2 ul a {
+	background:#666;
+	color:#fff;
+ 	z-index: 500;
+}
+#nav2 ul { 
+	z-index: 1000; 
+	background: #c9bdb0; 
+}
+#nav2 ul li { 
+	z-index: 100; 
+	background: #c9bdb0; 
+}
+#nav2 ul li a {
+	background: #c9bdb0;
+	color:#fff;
+ 	z-index: 500;
+	height: 25px;
+	font-size: 15px;
+	width: 220px;
+	border-top: 1px dotted #c9bdb0;
+}
+#nav2 ul a:hover { background: #c9bdb0; }
+#nav2 ul li ul li{ 
+	z-index: 100; 
+	background: #c9bdb0; 
+}
+#nav2 ul li ul li a {
+	background: #666 !important;
+	text-indent: 15px;
+	color:#fff;
+ 	z-index: 500;
+	height: 25px;
+	border-top: 1px dotted #c9bdb0;
+}
+#nav2 ul li ul li a:hover {
+	background: #c9bdb0 !important;
+	text-indent: 15px;
+	color:#fff;
+ 	z-index: 500;
+	height: 25px;
+}
+/** End NAVIGATION STYLES **/
+
+#contentWrap { 
+	background: url('http://www.newdawnts.org/images/contentBg.jpg') repeat-y; 
+	display: block; 
+	height: auto; 
+	width: 977px; 
+	overflow:auto; 
+	-webkit-box-shadow: inset 0px 5px 7px 0px #a1a1a1;
+    box-shadow: inset 0px 5px 7px 0px #a1a1a1;
+	padding-bottom: 220px; }  /* must be same height as the footer */}
+	
+/* Slideshow  */
+#SlideShow {height:350px;}
+
+#testWrap {
+/*	left: 0px;
+	position: absolute;
+	top: 568; */
+	width: 977px;
+	height: auto;
+/*	display: block; */
+}
+
+#leftFloat {
+	left: 0px;
+	position: absolute;
+	margin-left: 0px;
+	width: 225px;
+  	/* just used to show how to include the margin in the effect */
+  	margin-top:0px;padding-top:0px;
+}
+
+#LeftSideBar { 
+	position: absolute;
+	top: 0;
+	width: 205px; 
+	/* float: left;   */
+	padding: 10px 10px 0px 10px; 
+	font-size: 14px; 
+	line-height: 20px; 
+	text-shadow: 0px 1px 1px rgba(255, 255, 255, 1); 
+	z-index: 0; 
+}
+#LeftSideBar.fixed {
+	position: fixed;
+	top: 0;
+}
+#LeftSideBar ul li a:hover { color: #fff; }
+
+.BulletPoint {  
+	border-bottom: 1px dotted #ab9587; 
+	position: relative; 
+	left: -9px; 
+	width: 227px; 
+	padding: 5px 0px 10px 0px; 
+	background: none; 
+	float: left; 
+	height: auto; 
+	color: #6D6E71 !important;
+}
+.BulletPoint:hover { 
+	background: #6d6e71; 
+	color: #ffffff!important; 
+	text-shadow: none; 
+	border-bottom: 1px dotted #fff; 
+}
+.BulletPoint.text { 
+	float: left; 
+	width: 140px; 
+	z-index: 0; 
+}
+.Icon { 
+	float: left; 
+	width: 60px;  
+	margin: 10px 10px 0px 10px; 
+}
+
+#MainContent { 
+	position: relative;
+	left: 225px;
+	width: 467px; 
+	float: left;  
+	padding: 25px 25px 0 25px;
+	z-index: 100;
+	min-height: 1075px;
+}
+
+/** RIGHT SIDE BAR **/
+#rightFloat {
+	left: 742px;
+	position: absolute;
+	margin-left: 0px;
+	width: 235px;
+}
+
+/** #RightSideBar { width: 208px; float: left;  padding: 0px 10px 0px 10px; } **/
+#RightSideBar {
+	position: absolute;
+	top: 0;
+	padding: 0px 10px 0px 10px;
+	margin-top: 0px;
+}
+
+#RightSideBar.fixed {
+	position: fixed;
+	top: 0;
+}
+.RightSection { 
+	padding: 20px 8px 20px 8px; 
+	border-bottom: 1px dotted #ab9587;
+	width: 205px;}
+
+/** FOOTER **/
+#footer { 
+	position: relative;
+	margin-top: -170px; /* negative value of footer height */ 
+	margin-left: auto; 
+	margin-right: auto;
+	height: 170px; 
+	width: 977px;
+	clear:both; 
+}
+#affiliates { 
+	background: #6d6e71; 
+	height: 100px; 
+	width: 967px; 
+	display: block; 
+	font-family: 'Droid Sans', sans-serif; 
+	font-weight: 400; 
+	color: #fff; 
+	font-size: 18px;
+	padding-left: 10px; 
+	padding-top: 5px; 
+}
+ul.affiliateList { 
+	float: left; 
+	position: relative; 
+	width: 970px; 
+	display: inline; 
+	left: -40px; 
+	top: -10px;
+}
+.affiliateImg { 
+	float: left;  
+	margin-top: 5px; 
+	margin-left: 5px; 
+	margin-right: 5px;
+}
+.affiliateText { 
+	float: left; 
+	width: 100px; 
+	line-height: 12px; 
+	margin-top: 3px; 
+}
+ul.affiliateList li { 
+	-webkit-border-radius: 8px; 
+	-moz-border-radius: 8px; 
+	border-radius: 8px; 
+	font-size: 11px; 
+	color: #6d6e71; 
+	font-family: verdana; 
+	width: auto; 
+	height: auto; 
+	float: left; 
+	position: relative;  
+	background: #fff; 
+	width: 183px; 
+	height: 55px; 
+	list-style-type: none; 
+	margin-right: 10px; }
+	
+#credits { background: #509baa; height: 70px; width: 962px;  display: block; font-family: Verdana; font-size: 11px; text-align: right; color: #fff; line-height: 16px; padding-right: 15px;}
+#credits a { color: #e0d5c9;}
+#credits a:hover { color: #6d6e71;}
+
+
+
+.ContactFormSideBar { width: 180px; height: 35px; background: white; color: #6d6e71; font-family: Lusitana, Georgia, serif;}
+
+#GetHelp { -webkit-border-radius: 12px; position: relative; width: auto; height: auto; margin-top: 20px;
+-moz-border-radius: 12px;
+border-radius: 12px; background: white; padding: 10px; font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #6d6e71; font-size: 14px; line-height: 24px;}
+
+#GetHelp span { color: #eba85e; font-size: 30px; font-weight: bold; }
+
+
+#QuestionsToAsk-link span { color: #eba85e; font-size: 19px; font-weight: bold; }
+
+#QuestionsToAsk-link { -webkit-border-radius: 12px; position: relative; width: 190px; height: auto; margin: 10px; -moz-border-radius: 12px; border-radius: 12px; background: white; padding: 8px 8px 1px 8px; font-family: 'Droid Sans', sans-serif; font-weight: 700; color: #6d6e71; font-size: 12px; line-height: 24px;}
+
+
+
+
+
+/* various */
+.contentIndent {
+padding:0 5px 0 15px;
+}
+
+
+/*Don't forget to Add this Script*/
+
+body {
+behavior:url(csshover3.htc); /* or equivalent */
+}
+#nav2 li {
+display:inline;
+}
+#nav2 ul a {
+width:8em; /* resize as appropriate */
+}
+
+
+/*Show/Hide*/
+
+.ExpandingDiv { border-bottom: 1px dotted #509BAA; padding-bottom: 20px; clear: both;}
+
+.ExpandingDiv img { outline: none;}
+
+/*Brochure*/
+
+.fineprint { font-size: 11px; font-family: verdana; line-height: 16px;}
+
+/* Resources Page*/
+a.ResourceTitle { color: #509baa; font-size: 20px; font-family: 'Droid Sans', sans-serif; font-weight: 400; text-decoration: none;}
+.ResourceTable tr td { padding-bottom: 20px;}
+
+/* Therapies Page */
+.therapies-img {margin:5px 2px 5px 15px;}
+
+
+		
+/*-----------------------------------------------------------------------------------------------*/
+/*                              TABLE QUESTIONS CHECKLIST                                        */
+/*-----------------------------------------------------------------------------------------------*/
+table#checklist {
+	padding: 0; border-collapse: collapse!important;
+    margin: 10px 0 0;
+    width: 100%;}
+
+td.text {color: #666666;
+    font-size: 14.5px;
+    line-height: 1.4;
+    margin: 0; 
+	padding-bottom:7px!important;}
+
+td.rowOdd, td.rowEven {text-align: center; vertical-align: middle; width: 70px;}
+
+td.rowOdd {background: none repeat scroll 0 0 #E8DCCF;
+    border-left: 1px solid #CCCCCC;}
+td.rowEven {  background: none repeat scroll 0 0 #EEEEEE;
+    border-left: 1px solid #CCCCCC;}
+
+#checklist td, #checklist th {
+    border-bottom: 1px solid #CCCCCC;
+	display: table-cell;
+    vertical-align: inherit;
+	padding:4px;
+}
+
+#checklist th.middle {border-right:1px solid #CCCCCC; border-left:1px solid #CCCCCC;}
+#checklist th.last {border-left:1px solid #CCCCCC;}
+#checklist th {color:white; background:#509BAA;
+   color: #FFFFFF;
+    font-family: 'Droid Sans',sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 5px;
+	padding:3px 4px 3px 4px !important;
+    text-shadow: 0 1px 1px #916850;
+    text-transform: uppercase;}
+
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+/*                              TABLE FEES                                                       */
+/*-----------------------------------------------------------------------------------------------*/
+table#fees {padding: 0; border-collapse: collapse!important;margin: 10px 0 0; width: 100%; background:#fff;}
+#fees th {color:#fff!important; background:#509BAA; padding:5px;}	
+h2.fees {color:#fff!important; margin-top:3px;}
+tr.row1 {background:#dcebee; vertical-align:top;}
+tr.row2 {vertical-align:top;}
+
+table#fees h3 {color: #EBA85E;
+    font-family: 'Droid Sans',sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    margin:0px!important;
+	text-shadow:none!important;}
+table#fees span{font-size:12px; font-style:italic;}	
+table#fees td {padding:10px;}
+	
+.feesTable {background:#ffffff; padding:10px; border: 1px solid #509BAA;
+ -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+	box-shadow: -1px 1px 3px 1px #ccc;}
+	
+			
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         TOOLTIP STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
+
+/*- Bubble styling -*/
+.tip {
+	width: 400px;
+	/*margin:auto;*/
+	padding-top: 37px;
+	overflow: hidden;
+	display: none;
+	position: absolute;
+	z-index: 1200;
+	background: transparent url('http://www.newdawnts.org/images/tipTop.png') no-repeat top;
+	font-size:13px;}
+	
+.tipMid {background: transparent url('http://www.newdawnts.org/images/tipMid.png') repeat-y; padding: 0 25px 20px 25px;}
+.tipBtm {background: transparent url('http://www.newdawnts.org/images/tipBtm.png') no-repeat bottom; height: 32px;}
+
+/*- Button -*/
+.tTip {
+    color: #666666;
+    cursor: pointer;
+    font-weight: bold;
+    width: 30px;
+	height:30px;
+	text-align:center;
+	margin:auto;
+	padding:10px;
+
+}
+
+

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* global.css */
+#nav2 ul {
+    background: none repeat scroll 0 0 #C9BDB0;
+    z-index: 1000;/*updated z-index*/
+}
+
+
+
+
+
+
+
+/* BLOG STYLING */
+#RightSideBar-blog 
+{ width: 208px; float: left!important;  padding: 0px 10px 0px 10px; position:relative!important; } **/
+
+#LeftSideBar-blog { 
+	top: 0;
+	width: 205px; 
+	float: left;
+	padding: 10px 10px 0px 10px; 
+	font-size: 14px; 
+	line-height: 20px; 
+	text-shadow: 0px 1px 1px rgba(255, 255, 255, 1); 
+	z-index: 0; 
+	position:relative!important;
+}
+
+#MainContent-blog {
+    float: left;
+    min-height: 825px;
+    padding: 25px 25px 0;
+    position: relative;
+    width: 467px;
+    z-index: 100;
+}

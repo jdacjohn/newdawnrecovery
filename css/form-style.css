@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+.clear {clear:both;}
+table.form_table {
+	border-collapse:collapse!important;}
+
+.formfields {
+	background: none repeat scroll 0 0 #FAFAFA;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset;
+    color: #888888;
+	padding:5px;
+}
+
+.formfields input {padding: 3px;}
+
+div.formRow {margin-bottom:5px; margin-left:20px; vertical-align: middle; width:415px; clear:both;}
+span.formTitle label  {margin: 2px 0 15px !important; padding:0; }
+
+
+div.formRow span.formTitle label {
+	width:160px; 
+	float:left;
+	font-size: 14px;
+	}
+	
+div.formRow span.formField {
+    width: 230px;
+	position:relative;
+	display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+	float:right;
+	margin-bottom: 10px;
+}
+div.formRow span.formTitle{
+	display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+h3.formTitle {
+ color: #EBA85E!important;
+    font-family: 'Droid Sans',sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-top: 0;
+	text-shadow:none!important;
+}
+
+
+/* TABLE STYLES */
+
+tr.formRow {margin-bottom:5px; vertical-align: middle; clear:both;}
+tr.formRow .formfields {margin-bottom:10px;}
+tr.formRow .field_label {float:left;font-size: 14px;}
+	
+tr.formRow .field { width: 230px;
+	position:relative;
+	display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+	float:right;
+	margin-bottom: 10px;
+}
+
+td.radioLabel {font-size:13px; padding:5px;}
+/*tr.formRow span.formTitle{
+	display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+}*/

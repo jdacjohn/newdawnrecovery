@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_cd.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chemical Dependency &raquo; Contact Us &raquo; Driving Directions</title>
+<meta name="keywords" content="auburn chemical dependency, detox facility orangevale, adolescent outpatient citrus heights, intensive outpatient citrus heights,  residential facility orangevale" />
+<meta name="description" content="New Dawn has numerous locations around Sacramento in Orangevale, Citrus Heights and Auburn areas to fulfill the needs of our clients to better acheive lasting sobriety." />
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../_CSS/Templates/www_cd.css" rel="stylesheet" type="text/css" />
+<link href="../../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../../_JS/_selected_nav_cd.js"></script>
+<script language="javascript" src="../../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../../index.html"><img src="../../_IMAGES/Templates/www_main/header_logo_cd.gif" width="258" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/index.html">Home</a> &raquo; <a href="/chemical-dependency/index.html">Chemical Dependency</a> &raquo; <a href="index.html">Contact Us</a> &raquo; Driving Directions<!-- InstanceEndEditable --></span></div>
+            <table width="888" cellpadding="0" cellspacing="0" border="0" id="body_content">
+              <tr>
+                <td class="left" width="220" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../../chemical-dependency/">Overview</a></li>
+                      <li id="about"><a href="../about/index.html">About New Dawn</a></li>
+                      <ul class="sub" id="about-group">
+                        <li id="about-us"><a href="../about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="../about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="../about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="../about/recent-news.html">Recent News</a></li>
+                        <li id="newsletter"><a href="../about/newsletter.html">Newsletter</a></li>
+                        <!--<li id="outcomes"><a href="../chemical-dependency/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="../treatment-options/index.html">Treatment Options</a></li>
+                      <ul class="sub" id="treatment-options-group">
+                        <li id="medically-monitored-detox"><a href="../treatment-options/medically-monitored-detox.html">Detox</a></li>
+                        <li id="residential-program"><a href="../treatment-options/residential-program.html">Residential Program</a></li>
+                        <li id="day-treatment"><a href="../treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="../treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="teen-outpatient-treatment"><a href="../treatment-options/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="lifetime-aftercare"><a href="../treatment-options/lifetime-aftercare.html">Lifetime Aftercare</a></li>
+                      </ul>
+                      <li id="facilities"><a href="../facilities/index.html">Facilities</a></li>
+                      <ul class="sub" id="facilities-group">
+                        <li id="detox"><a href="../facilities/detox.html">Detox</a></li>
+                        <li id="residential"><a href="../facilities/residential.html">Residential</a></li>
+                        <li id="adult-outpatient-facilities"><a href="../facilities/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient-facilities"><a href="../facilities/teen-outpatient.html">Teen Outpatient</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="../our-staff/index.html">Our Staff</a></li>
+                      <ul class="sub" id="our-staff-group">
+                        <li id="detox-residential"><a href="../our-staff/detox-residential.html">Detox &amp; Residential</a></li>
+                        <li id="adult-outpatient"><a href="../our-staff/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient"><a href="../our-staff/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="leadership"><a href="../our-staff/leadership.html">Leadership</a></li>
+                      </ul>
+                      <li id="success-stories"><a href="../success-stories.html">Success Stories</a></li>
+                      <li id="admissions"><a href="../admissions/index.html">Admissions/Fees</a></li>
+                      <ul class="sub" id="admissions-group">
+                        <li id="our-fees"><a href="../admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="../admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="../admissions/using-insurance.html">Using Insurance</a></li>
+                        <li id="extended-care-discount"><a href="../admissions/extended-care-discount.html">Extended Care Discount</a></li>
+                        <li id="what-to-bring"><a href="../admissions/what-to-bring.html">What to Bring</a></li>
+                      </ul>
+                      <li id="resources"><a href="../resources/index.html">Resources</a></li>
+                      <ul class="sub" id="resources-group">
+                        <li id="accreditations-affiliations"><a href="../resources/accreditations-affiliations.html">Accreditations &amp; Affiliations</a></li>
+                        <li id="assessment-tool"><a href="../resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="../resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="index.html">Contact Us</a></li>
+                      <ul class="sub" id="contact-us-group">
+                        <li id="driving-directions"><a href="driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="../newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="../calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="../faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+				  <script language="JavaScript" type="text/javascript">
+							MarkSelectedNav();
+						</script>
+				  <div id="banner_lc"><a href="/chemical-dependency/admissions/index.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/newsletter.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_newsletter_cd.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" width="668" valign="top"><div class="content"><!-- InstanceBeginEditable name="Body" -->
+                      <h1>Driving Directions</h1>
+                      <table cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td valign="top" width="580"><div align="left">
+                            <p align="center"> <strong> Get Location Information and driving directions for these New Dawn Recovery locations: <br />
+                                    <strong><br />
+                                    </strong> <a href="http://www.newdawnrecovery.com/locations.html#hq">Intensive Outpatient Facility</a><br />
+                                    <a href="http://www.newdawnrecovery.com/locations.html#res">Detox &amp; Residential Facilities Admissions Offices</a> <br />
+                              </strong></p>
+                            <div align="center">
+                                <table align="center" border="1" cellpadding="8" cellspacing="0" width="300">
+                                  <tbody>
+                                    <tr valign="top">
+                                      <th scope="col" align="center" bgcolor="#006699" valign="middle" width="280"><strong style="color: #fff;">Admissions and Intake</strong></th>
+                                    </tr>
+                                    <tr valign="top">
+                                      <th scope="col" align="center" bgcolor="#ffffff" valign="middle">Phone: (916) 969-4300 </th>
+                                    </tr>
+                                    <tr valign="top">
+                                      <th scope="col" align="center" bgcolor="#ffffff" valign="middle">Toll Free: 1 (866) 969-4300 </th>
+                                    </tr>
+                                    <tr valign="top">
+                                      <th scope="col" align="center" bgcolor="#ffffff" valign="middle">Email: <a href="mailto:Info@NewDawnRecovery.com">Info@NewDawnRecovery.com </a></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                            </div>
+                            <p>&nbsp;</p>
+                            <table align="center" border="1" cellpadding="8" cellspacing="0" width="300">
+                                <tbody>
+                                  <tr>
+                                    <td bgcolor="#006699"><div align="center"><strong style="color: #fff;">Intensive Outpatient Facilities</strong></div></td>
+                                  </tr>
+                                  <tr>
+                                    <td><div align="center">7447               Antelope Road, Suite 103</div></td>
+                                  </tr>
+                                  <tr>
+                                    <td><div align="center">Citrus               Heights , CA 95621</div></td>
+                                  </tr>
+                                  <tr>
+                                    <td><div align="center">Phone:               916-723-1319</div></td>
+                                  </tr>
+                                  <tr>
+                                    <td><div align="center">Fax:               916-723-7015</div></td>
+                                  </tr>
+                                  <tr>
+                                    <td>Email: <a href="mailto:info@newdawnrecovery.com">info@newdawnrecovery.com</a></td>
+                                  </tr>
+                                  <tr>
+                                    <td valign="top">Directions: From  I-80 towards San Francisco, take the Antelope Road exit left, heading  back over the freeway. From I-80 towards Reno, take the Antelope Road  exit right. Go about 1 mile. New Dawn is on the left-hand side of the  road, 7447 Antelope Road, just before the corner of Auburn Blvd. and  Antelope Road.</td>
+                                  </tr>
+                                  <tr>
+                                    <td><div align="center"><a href="http://maps.yahoo.com/py/ddResults.py?Pyt=Tmap&amp;YY=28467&amp;tarname=&amp;tarde%0Dsc=&amp;taraddr=7447%20Antelope%20Road,%20Suite%20103%20&amp;tarcsz=Citrus%20Heights,%20CA%2095621&amp;doi%0Dt=1" target="_blank">Click here to get more extensive driving directions &amp; maps from Yahoo Maps </a> <br />
+                                    </div></td>
+                                  </tr>
+                                </tbody>
+                            </table>
+                            <div align="center">
+                                <p><br />
+                                    <br />
+                                </p>
+                              <table align="center" border="1" cellpadding="8" cellspacing="0" width="300">
+                                  <tbody>
+                                    <tr>
+                                      <td bgcolor="#006699" width="280"><div align="center"><strong style="color: #fff;"><a name="res" id="res"></a>Detox &amp; Residential Facilities</strong></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center">6043 Roloff Way </div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center">Orangevale , CA 95662</div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center">Phone: (916) 989-1675 </div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center">Fax: (916) 989-8164</div></td>
+                                    </tr>
+                                    <tr>
+                                      <td>Email: <a href="mailto:info@newdawnrecovery.com">info@newdawnrecovery.com</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top"><p>Directions:<strong><br />
+                                        From Highway 50</strong>:  exit Hazel Avenue (North). Take Hazel about 3.5 miles to Greenback Lane  and turn left (West). At teh next intersection turn left onto Beech.  Then take the first right onto Sherry. Take Sherry to a right turn onto  the second Roloff. The admissions office is on your left. <strong> <br />
+                                        </strong></p>
+                                          <p><strong> From Highway 80: </strong>Exit  Greenback Lane (East). Take Greenback about 6 miles to right turn on  Beech. Take the first right onto Sherry. Take Sherry to a right turn  onto the second Roloff. The admissions office is on your left. </p></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><a href="http://maps.yahoo.com/dd?taddr=6043%20Roloff%20Way&amp;tlt=38.676504&amp;tln=-121.232375&amp;tname=&amp;tcsz=Orangevale,+CA+95662-4544&amp;tcountry=US&amp;tdesc=" target="_blank">Click here to get more extensive driving directions &amp; maps from Yahoo Maps </a> <br />
+                                      </div></td>
+                                    </tr>
+                                  </tbody>
+                              </table>
+                              <p>&nbsp;</p>
+                              <p style="margin-bottom: 0;">&nbsp;</p>
+                            </div>
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <td height="313">
+                              <table align="center" border="1" bordercolor="#808080" cellpadding="8" cellspacing="0" width="300">
+                                <tbody>
+                                  <tr valign="top">
+                                    <th scope="col" align="center" bgcolor="#006699" height="37" valign="middle" width="280"><p><strong style="color: #fff;">Adolescent Facilities</strong></p></th>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="center" valign="middle">7011 Sylvan Rd., Suite D </td>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="center" height="23" valign="middle">Citrus Heights, CA 95610 </td>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="center" height="23" valign="middle">Phone: (916) 723 - 4335 </td>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="center" height="23" valign="middle">Fax: (916) 723 - 4339 </td>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="center" height="23" valign="middle">Email: <a href="mailto:Info@NewDawnRecovery.com">Info@NewDawnRecovery.com </a></td>
+                                  </tr>
+                                  <tr valign="top">
+                                    <td align="left" height="23" valign="middle"><p>Directions:<strong><br />
+                                      From Highway 50: </strong>Exit Sunrise Blvd. and turn left; turn left of Madison Ave.; turn right on San Juan; continue on Sylvan Rd. </p>
+                                        <p><strong>From Highway 80 East:</strong> Exit Antelope </p>
+                                      <p><strong>From Highway 80 West:</strong> Exit Greenback Lane; left of Auburn; right on Sylvan Rd.&nbsp; We are Suite D. </p></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+						  </td>
+                          <td valign="top"><div align="center">
+                          </div></td>
+                        </tr>
+                      </table>
+                      <p>&nbsp;</p>
+					  <!-- InstanceEndEditable --></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2007 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="../privacy-policies.html">Privacy Policies</a> | <a href="index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../../_IMAGES/Templates/www_main/footer_carf.gif" width="121" height="22" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

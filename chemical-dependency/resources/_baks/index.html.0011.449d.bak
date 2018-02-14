@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_cd.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chemical Dependency &raquo; Resources</title>
+<meta name="keywords" content="alcoholism sacramento, alcoholism treatment sacramento, sacramento alcoholism treatment, alcholism help sacramento" />
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style1 {font-family: Tahoma}
+-->
+</style>
+<style type="text/css">
+<!--
+.style2 {  color: #163D63;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../../_CSS/Templates/www_cd.css" rel="stylesheet" type="text/css" />
+<link href="../../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../../_JS/_selected_nav_cd.js"></script>
+<script language="javascript" src="../../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../../index.html"><img src="../../_IMAGES/Templates/www_main/header_logo_cd.gif" width="258" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/index.html">Home</a> &raquo; <a href="/chemical-dependency/index.html">Chemical Dependency</a> &raquo; Resources<!-- InstanceEndEditable --></span></div>
+            <table width="888" cellpadding="0" cellspacing="0" border="0" id="body_content">
+              <tr>
+                <td class="left" width="220" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../../chemical-dependency/">Overview</a></li>
+                      <li id="about"><a href="../about/index.html">About New Dawn</a></li>
+                      <ul class="sub" id="about-group">
+                        <li id="about-us"><a href="../about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="../about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="../about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="../about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../chemical-dependency/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../chemical-dependency/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="../treatment-options/index.html">Treatment Options</a></li>
+                      <ul class="sub" id="treatment-options-group">
+                        <li id="medically-monitored-detox"><a href="../treatment-options/medically-monitored-detox.html">Detox</a></li>
+                        <li id="residential-program"><a href="../treatment-options/residential-program.html">Residential Program</a></li>
+                        <li id="day-treatment"><a href="../treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="../treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="teen-outpatient-treatment"><a href="../treatment-options/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="lifetime-aftercare"><a href="../treatment-options/lifetime-aftercare.html">Lifetime Aftercare</a></li>
+                      </ul>
+                      <li id="facilities"><a href="../facilities/index.html">Facilities</a></li>
+                      <ul class="sub" id="facilities-group">
+                        <li id="detox"><a href="../facilities/detox.html">Detox</a></li>
+                        <li id="residential"><a href="../facilities/residential.html">Residential</a></li>
+                        <li id="adult-outpatient-facilities"><a href="../facilities/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient-facilities"><a href="../facilities/teen-outpatient.html">Teen Outpatient</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="../our-staff/index.html">Our Staff</a></li>
+                      <ul class="sub" id="our-staff-group">
+                        <li id="detox-residential"><a href="../our-staff/detox-residential.html">Detox &amp; Residential</a></li>
+                        <li id="adult-outpatient"><a href="../our-staff/adult-outpatient.html">Adult Outpatient</a></li>
+                        <li id="teen-outpatient"><a href="../our-staff/teen-outpatient.html">Teen Outpatient</a></li>
+                        <li id="leadership"><a href="../our-staff/leadership.html">Leadership</a></li>
+                      </ul>
+                      <li id="success-stories"><a href="../success-stories.html">Success Stories</a></li>
+                      <li id="admissions"><a href="../admissions/index.html">Admissions/Fees</a></li>
+                      <ul class="sub" id="admissions-group">
+                        <li id="our-fees"><a href="../admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="../admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="../admissions/using-insurance.html">Using Insurance</a></li>
+                        <li id="extended-care-discount"><a href="../admissions/extended-care-discount.html">Extended Care Discount</a></li>
+                        <li id="what-to-bring"><a href="../admissions/what-to-bring.html">What to Bring</a></li>
+                      </ul>
+                      <li id="resources"><a href="index.html">Resources</a></li>
+                      <ul class="sub" id="resources-group">
+                        <li id="accreditations-affiliations"><a href="accreditations-affiliations.html">Accreditations &amp; Affiliations</a></li>
+                        <li id="assessment-tool"><a href="assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="../contact-us/index.html">Contact Us</a></li>
+                      <ul class="sub" id="contact-us-group">
+                        <li id="driving-directions"><a href="../contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="../contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="../newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="../calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="../faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+				  <script language="JavaScript" type="text/javascript">
+							MarkSelectedNav();
+						</script>
+				  <div id="banner_lc"><a href="/chemical-dependency/admissions/index.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/newsletter.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_newsletter_cd.gif" width="184" height="68" border="0" /></a></div>
+				  <div id="banner_lc"><a href="/chemical-dependency/about/assessment.html"><img src="../../_IMAGES/templates/www_cd/banner_lc_assessment_cd.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" width="668" valign="top"><div class="content"><!-- InstanceBeginEditable name="Body" -->
+                  <table width="294" border="0" align="right">
+                    <tr valign="top">
+                      <td width="288" align="center" valign="middle"><div align="center" class="style2">
+                          <p class="style2" style="margin-bottom: 0;"><span class="style2" style="margin-bottom: 0;"><a href="../admissions/our-fees.html#Helpcard" target="_blank">Financing available upon credit approval with payments as low as $500 a month. Click here for more information! </a></span></p>
+                        </div></td>
+                    </tr>
+                  </table>
+                  <p>&nbsp;</p>
+                  <p style="margin-bottom: 0;">&nbsp;</p>
+                  <h1 style="margin-top: 0;">Resources </h1>
+                  <h4><strong><img src="../../_IMAGES/cd_main.jpg" width="371" height="220" align="right" style="padding-right: 10px; padding-left: 10px;" /></strong></h4>
+<p><span style="font-family:Tahoma;">New Dawn seeks to provide meaningful care for those in need;  to improve the quality of life for recovering addicts and their families.</span></p>
+<p class="style1">New Dawn is an established behavioral health company with a  formula for success that has been perfected for over 20 years.</p>
+<p class="style1">The following pages provides additional information on alcoholism, drug abuse, treatment and helpful links for treatment in the Sacramento area, and all over the U.S. </p>
+<p><strong>Interesting Articles</strong></p>
+<blockquote>
+  <p><a href="http://www.medicalnewstoday.com/articles/99503.php" target="_blank">Brain Chemistry   Ties Anxiety And Alcoholism</a> </p>
+  <p><a href="http://www.jointogether.org/news/headlines/inthenews/2008/iran-may-execute-man-for.html" target="_blank">Execution for Alcoholism? An Iranian Man Faces the Death   Penalty</a></p>
+  <p><a href="http://health.msn.com/health-topics/addiction/articlepage.aspx?cp-documentid=100202307&amp;GT1=31033" target="_blank">Beyond 12 Steps - Dos and don&rsquo;ts for kicking addiction and treating alcoholism </a></p>
+<p><a href="http://ezinearticles.com/?State-Or-Government-Funded-Versus-Private-Drug-Rehab&amp;id=1379874" target="_blank">Stave or Government vs. Private Rehab Centers </a></p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+  </blockquote>
+<!-- InstanceEndEditable --></div></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../../_IMAGES/Templates/www_cd/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2007 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="../privacy-policies.html">Privacy Policies</a> | <a href="../contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../../_IMAGES/Templates/www_main/footer_carf.gif" width="121" height="22" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

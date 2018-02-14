@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_ed.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Eating Disorder &raquo; Privacy Policies</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../_CSS/Templates/www_ed.css" rel="stylesheet" type="text/css" />
+<link href="../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../_JS/_selected_nav_ed.js"></script>
+<script language="javascript" src="../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../index.html"><img src="../_IMAGES/Templates/www_main/header_logo_ed.gif" width="262" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/">Home</a> &raquo; <a href="index.html">Eating Disorder</a> &raquo; Privacy Policies <!-- InstanceEndEditable --></span></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" id="body_content">
+              <tr>
+                <td class="left" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../eating-disorder/">Overview</a></li>
+                      <li id="about"><a href="about/index.html">About New Dawn</a></li>
+                      <ul id="about-group" class="sub">
+                        <li id="about-us"><a href="about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../eating-disorder/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../eating-disorder/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="treatment-options/index.html">Treatment Options</a></li>
+                      <ul id="treatment-options-group" class="sub">
+                        <li id="residential"><a href="treatment-options/residential.html">Residential</a></li>
+                        <li id="day-treatment"><a href="treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="outpatient-services"><a href="treatment-options/outpatient-services.html">Outpatient Services</a></li>
+                        <li id="housing-options"><a href="treatment-options/housing-options.html">Housing Options</a></li>
+                        <!--<li id="aftercare"><a href="../eating-disorder/treatment-options/aftercare.html">Aftercare</a></li>-->
+                        <li id="group-therapy-descriptions"><a href="treatment-options/group-therapy-descriptions.html">Group Therapy</a></li>
+                      </ul>
+                      <li id="facilities"><a href="facilities/index.html">Facilities</a></li>
+                      <ul id="facilities-group" class="sub">
+                        <li id="outpatient"><a href="facilities/outpatient.html">Outpatient</a></li>
+                        <li id="residential"><a href="facilities/residential.html">Residential</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="our-staff.html">Our Staff</a></li>
+                      <li id="admissions"><a href="admissions/index.html">Admissions/Fees</a></li>
+                      <ul id="admissions-group" class="sub">
+                        <li id="our-fees"><a href="admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="admissions/using-insurance.html">Using Insurance</a></li>
+                      </ul>
+                      <li id="resources"><a href="resources/index.html">Resources</a></li>
+                      <ul id="resources-group" class="sub">
+                        <li id="accreditations-affiliations"><a href="resources/accreditations-affiliations.html">Accreditations & Affiliations</a></li>
+                        <li id="assessment-tool"><a href="resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="contact-us/index.html">Contact Us</a></li>
+                      <ul id="contact-us-group" class="sub">
+                        <li id="driving-directions"><a href="contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+                  <script language="javascript">
+							MarkSelectedNav();
+						</script>
+                  <div id="banner_lc"><a href="/eating-disorder/admissions/index.html"><img src="../_IMAGES/templates/www_ed/banner_lc_ed.gif" width="184" height="68" border="0" /></a></div>
+                  <div id="banner_lc"><a href="/eating-disorder/about/newsletter.html"><img src="../_IMAGES/templates/www_ed/banner_lc_newsletter_ed.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" valign="top">
+					<div class="content"><!-- InstanceBeginEditable name="Body" -->
+					  <h1>Privacy Policies and Health Information Practices</h1>
+					  <h4>Client/Patient Rights Policy </h4>
+					  <blockquote>
+                        <p>In accordance with California state licensing and certification  requirements, and applicable federal law and national accreditation standards, New  Dawn Recovery Centers will accord each participant receiving services the  following rights which include, but are not limited to:</p>
+					    <p>The Right&hellip;</p>
+					    <ol>
+                          <li>To confidentiality as       provided for in Title 42, Code of Federal Regulations, Sections 2.1       through 2.67-1; Title 45, Parts 160 &amp; 164, and as required by <a href="http://www.cms.hhs.gov/HIPAAGenInfo/02_TheHIPAALawandRelated%20Information.asp#TopOfPage">HIPAA</a>.</li>
+					      <li>To be accorded dignity in contact       with staff. </li>
+					      <li>To be accorded a safe,       healthful and comfortable accommodations to meet his or her needs.. </li>
+					      <li>To be free from verbal,       emotional, physical abuse, and sexual behavior or abuse. </li>
+					      <li>To be informed by the program       licensee or agent of the provisions of law regarding complaints including,       but not limited to providing the contact information of the California       Dept. of Alcohol and Drugs. </li>
+					      <li>To be free from       discrimination based on: ethnic or gender group identification, religion,       age, sex, color or any type of disability. </li>
+					      <li>To be accorded access to       review of his/her health records, have an opportunity to request a       correction to the record, if appropriate; and to receive a copy of the       record within 30 days of a written request. </li>
+					      <li>To express personal       preference regarding case manager, counselor or any other service       personnel. </li>
+					      <li>To be free to attend       religious services or activities of his or her choice provided that these       services or activities do not conflict with facility program requirements. </li>
+				        </ol>
+					    <p>Any grievances regarding  the violation of client rights should be directed to the Case Manager and/or facility  Program Director.&nbsp; Additionally, clients  may file a complaint with the <a href="http://www.adp.ca.gov/">California  Department of Alcohol and Drug Programs</a>. An inspection of an alcoholism or  drug abuse recovery or treatment facility may be requested in accordance with  Title 9, Chapter 4, Section 10544 (c ) of the California Code of Regulations. </p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Nondiscrimination Policy </h4>
+					  <blockquote>
+                        <p>New Dawn Recovery Centers does not discriminate in the provision of  services on the basis of ethnic group identification, religion, age, sex, color  or disability, pursuant to Title VI of the Civil Rights Act of 1964 (Section  2000d, Title 42, United States Code), the Rehabilitation Act of 1973 (Section  794, Title 29, United States Code); the Americans with Disabilities Act of 1990  (Section 12132, Title 42, United States Code); and per relevant California  State regulations.</p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Accessibility Policy </h4>
+					  <blockquote>
+                        <p>New Dawn Recovery Centers programs operate  in accordance with an Accessibility policy and plan that is reviewed and  revised at least annually in accordance with state, federal, and CARF  accreditation guidelines. Our Accessibility policy and plan is to remove as  many barriers to treatment as possible, such as: </p>
+					    <ul>
+                          <li>Attitudinal </li>
+					      <li>Geographical</li>
+					      <li>Architectural </li>
+					      <li>Cultural</li>
+					      <li>Environmental </li>
+					      <li>Financial </li>
+					      <li>Communication </li>
+					      <li>Transportation </li>
+					      <li>Any other barriers, as these       become identified. </li>
+				        </ul>
+					    <p>Reasonable accommodations are provided,  as needed, to enable qualified individuals access to a program&rsquo;s operations and  services. For more information, contact the particular facility&rsquo;s intake  department.</p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Insurance Billing and Patient Responsibility </h4>
+					  <blockquote>
+                        <p>New Dawn will bill your insurance or  third party payer as a courtesy to you and will make every effort to obtain  payment.&nbsp; Only after reasonable attempts  to collect from the insurance payer have been exhausted will unpaid charges be  billed to the patient.&nbsp; While it can  sometimes take months to exhaust all reasonable avenues of appeal, no interest  will accrue on unpaid insurance charges.&nbsp;  Once unpaid insurance charges have been billed to the client, any unpaid  amounts may be turned over to a collection agency at thirty (30) days past due,  and all legal and collection related fees will be charged to the patient.</p>
+					    <p>All anticipated  uninsured/non-covered charges and projected co-payments are expected to be paid  upon admission. New Dawn will make every effort to acquire accurate insurance  benefits and eligibility information, however statements made by the Intake  Department or other New Dawn Recovery Centers staff with regards to copay,  coinsurance, deductible amounts, eligibility, coverage(s), benefit limitations  or exclusions and other health insurance or third party payer related  information are offered only as an estimate of the patient or guarantor&rsquo;s  financial responsibility. It is ultimately the patient&rsquo;s responsibility to know  the extent of their health insurance eligibility and coverage. The patient  and/or guarantor is responsible to pay for all non-covered services, which  includes any portion of the billed charges that are not paid by the insurance  payer. </p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Web Site Visitor Information Practices Policy </h4>
+					  <blockquote>
+                        <p>When you browse through any website,  certain information about your visit can be collected. We automatically collect  and store the following information: </p>
+					    <ul>
+                          <li>Name of the domain you use to       access the Internet. (for example, aol.com, if you are using an America       Online account) </li>
+					      <li>Address of the website you       came from when you came to visit. </li>
+					      <li>Date and time of your visit. </li>
+					      <li>Web site pages you visited. </li>
+					      <li>Keyword(s) used to access our       site.</li>
+				        </ul>
+					    <p>We use this information for statistical  purposes and to help us make our site more useful to visitors. Unless it is  specifically stated otherwise, no additional information will be collected  about you.</p>
+					    <p><strong>Personally Communicated Information:</strong><br />
+					      Any information you voluntarily provide to New Dawn, either through an e-mail  message, contact form, survey, etc., is considered confidential, and will only  be used internally to the extent necessary. </p>
+					    <p><strong>Disclosure:</strong><br />
+					      This organization does not disclose, give, sell or transfer any personal  information about our visitors, unless legally required for law enforcement or by  statute.</p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Confidentiality &amp; Security Policy </h4>
+					  <blockquote>
+                        <p>New Dawn Recovery   Centers and its programs  have a primary policy and responsibility to strictly adhere to protecting the  security and confidentiality of its client&rsquo;s personal health information. New Dawn Recovery   Centers and its employees  will not release any information without a specified written consent from the  client/patient and/or only if such disclosure is legally permitted in  accordance with current federal laws, including: </p>
+					    <ul>
+                          <li><a href="http://www.access.gpo.gov/nara/cfr/waisidx_00/42cfr2_00.html" target="_blank"><strong>42       CFR Part 2</strong></a> </li>
+					      <li><a href="http://www.hhs.gov/ocr/combinedregtext.pdf" target="_blank"><strong>45 CFR Parts 160 and 164</strong></a> </li>
+				        </ul>
+					    <p>Each staff member is dedicated to  upholding these standards in all verbal, written or electronically transmitted  communications and records. All New   Dawn Recovery   Center staff, clients  (patients), family members, and visitors sign a confidentiality agreement to  safeguard patient/client identity and other personally protected health  information.</p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Notice of Health Information Practices </h4>
+					  <blockquote>
+                        <p>This notice describes how information about our  client/patient may be used and/or disclosed and how this information is  accessed. Please review it carefully.<br />
+                            <strong>Understanding Your Health  Record/Information:</strong><br />
+                          Each time you visit a health care facility, physician, or other healthcare  provider, a record of your visit is made. Typically, this record contains  information about your health history, symptoms, examination and test results,  diagnoses, treatment, and a plan for future care or treatment. This  information, often referred to as your patient chart or medical record, serves  as a: </p>
+					    <ul>
+                          <li>Basis for planning your care       and treatment. </li>
+					      <li>Means of communication among       the health professionals who contribute to your care. </li>
+					      <li>Legal document describing the       care you received. </li>
+					      <li>Means by which you or a third       party payer can verify that services billed were actually provided. </li>
+					      <li>Tool in educating heath       professionals. </li>
+					      <li>Source of personally       de-identified data for medical research. </li>
+					      <li>Basis of de-identified       information for public health officials charged with improving the health       of the local region or the nation. </li>
+					      <li>Resource of de-identified       data for facility planning and marketing. </li>
+					      <li>Tool with which we can assess       and continually work to improve the care we render and the outcomes we       achieve. </li>
+				        </ul>
+					    <p>Understanding what is in your record  and how your health information is used helps you to: </p>
+					    <ul>
+                          <li>Insure its accuracy. </li>
+					      <li>Better understand who, what,       when, where and why others may access your health information, especially       in the event that you did not sign a specified authorization to do so. </li>
+					      <li>Make more informed decisions       when authorizing disclosure to others. </li>
+				        </ul>
+					    <p><strong>Your Health Information Rights:</strong><br />
+					      Although your health record is the physical property of the healthcare  practitioner or facility that compiled it, the information belongs to you. You  have the right to: </p>
+					    <ul>
+                          <li>Request a restriction on       certain uses and disclosures of your information as provided by 45 CFR       164.522 and 42 CFR, Chapter 1, Part 2. </li>
+					      <li>Obtain a paper copy of the       notice of information practices upon request. </li>
+					      <li>Inspect and copy your health       record as provided for in 45 CFR 164.524. </li>
+					      <li>Amend your health record as       provided in 45 CFR 164.528. </li>
+					      <li>Obtain an accounting of       disclosures of your health information as provided in 45 CFR 164.528. </li>
+					      <li>Request communications of       your health information by alternative means or at alternative locations. </li>
+					      <li>Revoke your authorization to       use or disclose health information, except to the extent that action has       already been taken based on a previous authorization. </li>
+				        </ul>
+					    <p><strong>Our Responsibilities:</strong><br />
+					      This organization is required to: </p>
+					    <ul>
+                          <li>Maintain the privacy of your       health information. </li>
+					      <li>Provide you with a notice as       to our legal duties and privacy practices with respect to information we       collect and maintain about you. </li>
+					      <li>Abide by the terms of this       notice. </li>
+					      <li>Notify you if we are unable       to agree to a requested restriction. </li>
+					      <li>Accommodate reasonable       requests you may have to communicate personal health information by       alternative means or at alternative locations. </li>
+				        </ul>
+					    <p>We will not use or disclose your health  information without your authorization, except as described in this notice.</p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Notice - Confidentiality of Alcohol and Drug Abuse Patient Records </h4>
+					  <blockquote>
+                        <p>The confidentiality of alcohol and drug  abuse patient records maintained by this program is protected by federal law  and regulations (per 42 CFR, Chapter 1, Part 2). Generally, the program may not  say to a person outside the program that a patient attends the program, or  disclose any information identifying a patient as an alcohol or drug abuser  unless: </p>
+					    <ol>
+                          <li>The patient consents in       writing. </li>
+					      <li>The disclosure is allowed by       a court order. </li>
+					      <li>The disclosure is made to       medical personnel in a medical emergency or to designated and qualified       staff for research, audit, or program evaluation. </li>
+				        </ol>
+					    <p>Federal law and regulations do not  protect any information about a crime committed by a patient either at the  program or against any person who works for the program or about any threat to  commit such a crime. <br />
+					      Federal laws and regulations do not protect any  information about suspected child abuse or neglect from being reported under  State law to appropriate state or local authorities. </p>
+					    <p>Violation of the federal  law and regulations by a program is a crime. Suspected violations may be  reported to appropriate authorities in accordance with federal regulations. </p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>Individual Right to Access Protected Health Information </h4>
+					  <blockquote>
+                        <p>The individual patient/client has a  right to access, inspect and obtain a copy of his/her protected health  information (pursuant to 45 CFR Part 164.524) for as long as that designated  record set is maintained by the facility. Access will be accorded within 30  days of the request, except in where legally specified reasons for denial  exist. If access is denied for cause, such denial may be reviewed and appealed. <br />
+                          For further HIPAA-relevant Privacy information see the U.S.  Dept. of Health and Human Services (HHS) CMS <a href="http://www.hhs.gov/ocr/hipaa/" target="_blank"><strong>website</strong></a>.</p>
+					    <p>We reserve the right to  change our practices and to make the new provisions effective for all protected  health information we maintain. Should our information practices change, we  will post a revised notice to this website. </p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					  <h4>For more knowledge about protected health information or to report a problem:</h4>
+					  <blockquote>
+                        <p>If have questions and would like additional information,  you may contact New Dawn Recovery Centers&rsquo; corporate office at 866-969-4300.<br />
+                          If you believe your privacy rights have been violated, you  can file a complaint with the Department of Health and Human Services/ Office  for Civil Rights (HHS/OCR) by email at <a href="mailto:ocrcomplaint@hhs.gov"><strong>ocrcomplaint@hhs.gov</strong></a> or by calling the national Office at 202-205-8725 and asking for the OCR Health  Information Privacy Complaint Form and/or for the appropriate Regional OCR  Office.</p>
+					    <p>However, communications  that are sent directly to the Department of HHS/OCR are maintained by them for  historical purposes, as required by law. Those communications are archived on a  monthly basis, but are also protected by the Privacy Act, which restricts their  use while permitting certain disclosures. There will be no retaliation for  filing a complaint. </p>
+				    </blockquote>
+					  <p>&nbsp;</p>
+					<!-- InstanceEndEditable --></div>
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2007 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="privacy-policies.html">Privacy Policies</a> | <a href="contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../_IMAGES/templates/www_main/footer_carf.gif" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

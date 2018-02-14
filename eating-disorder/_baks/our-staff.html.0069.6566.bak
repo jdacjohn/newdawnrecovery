@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/www_ed.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Eating Disorder &raquo; Our Staff</title>
+<meta name="keywords" content="Diana Amodia, amodia, diana amodia, erin elfant-rea, lynne martin" />
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><style type="text/css">
+<!--
+.style5 {color: #163D63;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+-->
+</style><style type="text/css">
+<!--
+.style12 {
+  font-size: 18px;
+  font-family: "Trebuchet MS";
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.style13 {font-family: "Trebuchet MS"}
+-->
+</style><style type="text/css">
+<!--
+.style14 {font-size: 18px}
+-->
+</style>
+<style type="text/css">
+<!--
+.style15 {
+  color: #10A09E;
+  font-size: 18px;
+  font-family: "Trebuchet MS";
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../_CSS/Templates/www_ed.css" rel="stylesheet" type="text/css" />
+<link href="../_CSS/_general_form.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="../_JS/_selected_nav_ed.js"></script>
+<script language="javascript" src="../_JS/powerJS/powerJS.js"></script>
+<script language="javascript">
+	function verify() {
+		var themessage = "You are required to complete the following fields: ";
+		if (document.form.name.value=="") {
+			themessage = themessage + " - Name";
+		}
+		if (document.form.email.value=="") {
+			themessage = themessage + " - E-mail";
+		}
+		if (document.form.address.value=="") {
+			themessage = themessage + " - Address";
+		}
+		if (document.form.city.value=="") {
+			themessage = themessage + " - City";
+		}
+		if (document.form.zip.value=="") {
+			themessage = themessage + " - Zip Code";
+		}
+		if (document.form.Program.value=="") {
+			themessage = themessage + " - Program";
+		}
+		//alert if fields are empty and cancel form submit
+		if (themessage == "You are required to complete the following fields: ") {
+			document.form.submit();
+		}
+		else {
+			alert(themessage);
+			return false;
+		}
+	}
+</script>
+</head>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_container">
+  <tr>
+    <td class="left_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_left.gif" width="13" height="454" /></td>
+    <td class="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_header">
+        <tr>
+          <td class="logo"><a href="../index.html"><img src="../_IMAGES/Templates/www_main/header_logo_ed.gif" width="262" height="101" border="0" /></a></td>
+          <td class="divider"><img src="../_IMAGES/Templates/www_main/header_divider.gif" width="39" height="101" /></td>
+          <td class="right">confidence. security. hope. always.</td>
+        </tr>
+      </table>
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_body">
+        <tr>
+          <td><div id="bc_container"><span id="bc_txt"><strong>You are here:</strong> <!-- InstanceBeginEditable name="Path" --><a href="/">Home</a> &raquo; <a href="index.html">Eating Disorder</a> &raquo; Our Staff<!-- InstanceEndEditable --></span></div>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" id="body_content">
+              <tr>
+                <td class="left" valign="top"><div id="tmpl_lc">
+                    <ul>
+                      <li id="overview"><a href="../eating-disorder/">Overview</a></li>
+                      <li id="about"><a href="about/index.html">About New Dawn</a></li>
+                      <ul id="about-group" class="sub">
+                        <li id="about-us"><a href="about/about-us.html">Our Story</a></li>
+                        <li id="mission"><a href="about/mission.html">Mission</a></li>
+                        <li id="ethics"><a href="about/ethics.html">Code of Ethics</a></li>
+                        <li id="recent-news"><a href="about/recent-news.html">Recent News</a></li>
+                        <!--<li id="newsletter"><a href="../eating-disorder/about/newsletter.html">Newsletter</a></li>-->
+                        <!--<li id="outcomes"><a href="../eating-disorder/about/outcomes.html">Outcomes</a></li>-->
+                      </ul>
+                      <li id="treatment-options"><a href="treatment-options/index.html">Treatment Options</a></li>
+                      <ul id="treatment-options-group" class="sub">
+                        <li id="residential"><a href="treatment-options/residential.html">Residential</a></li>
+                        <li id="day-treatment"><a href="treatment-options/day-treatment.html">Day Treatment</a></li>
+                        <li id="intensive-outpatient"><a href="treatment-options/intensive-outpatient.html">Intensive Outpatient</a></li>
+                        <li id="outpatient-services"><a href="treatment-options/outpatient-services.html">Outpatient Services</a></li>
+                        <li id="housing-options"><a href="treatment-options/housing-options.html">Housing Options</a></li>
+                        <!--<li id="aftercare"><a href="../eating-disorder/treatment-options/aftercare.html">Aftercare</a></li>-->
+                        <li id="group-therapy-descriptions"><a href="treatment-options/group-therapy-descriptions.html">Group Therapy</a></li>
+                      </ul>
+                      <li id="facilities"><a href="facilities/index.html">Facilities</a></li>
+                      <ul id="facilities-group" class="sub">
+                        <li id="outpatient"><a href="facilities/outpatient.html">Outpatient</a></li>
+                        <li id="residential"><a href="facilities/residential.html">Residential</a></li>
+                      </ul>
+                      <li id="our-staff"><a href="our-staff.html">Our Staff</a></li>
+                      <li id="admissions"><a href="admissions/index.html">Admissions/Fees</a></li>
+                      <ul id="admissions-group" class="sub">
+                        <li id="our-fees"><a href="admissions/our-fees.html">Our Fees</a></li>
+                        <li id="financial-assistance"><a href="admissions/financial-assistance.html">Financial Assistance</a></li>
+                        <li id="using-insurance"><a href="admissions/using-insurance.html">Using Insurance</a></li>
+                      </ul>
+                      <li id="resources"><a href="resources/index.html">Resources</a></li>
+                      <ul id="resources-group" class="sub">
+                        <li id="accreditations-affiliations"><a href="resources/accreditations-affiliations.html">Accreditations & Affiliations</a></li>
+                        <li id="assessment-tool"><a href="resources/assessment-tool.html">Assessment Tool</a></li>
+                        <li id="helpful-links"><a href="resources/helpful-links.html">Helpful Links</a></li>
+                      </ul>
+                      <li id="contact-us"><a href="contact-us/index.html">Contact Us</a></li>
+                      <ul id="contact-us-group" class="sub">
+                        <li id="driving-directions"><a href="contact-us/driving-directions.html">Driving Directions</a></li>
+                        <li id="request-brochure"><a href="contact-us/request-brochure.html">Request a Brochure</a></li>
+                      </ul>
+                      <li id="newsletter"><a href="newsletter.html">Newsletter</a></li>
+                      <li id="calendar"><a href="calendar.html">Calendar</a></li>
+                      <li id="faqs"><a href="faqs.html">FAQs</a></li>
+                    </ul>
+                  </div>
+                  <script language="javascript">
+							MarkSelectedNav();
+						</script>
+                  <div id="banner_lc"><a href="/eating-disorder/admissions/index.html"><img src="../_IMAGES/templates/www_ed/banner_lc_ed.gif" width="184" height="68" border="0" /></a></div>
+                  <div id="banner_lc"><a href="/eating-disorder/about/newsletter.html"><img src="../_IMAGES/templates/www_ed/banner_lc_newsletter_ed.gif" width="184" height="68" border="0" /></a></div></td>
+                <td class="right" valign="top">
+					<div class="content"><!-- InstanceBeginEditable name="Body" -->
+							<table width="294" border="0" align="right" cellpadding="5">
+                              <tr align="center" valign="middle">
+                                <td width="288"><div align="center" class="style5">
+                                    <p class="style5" style="margin-bottom: 0;"><a href="admissions/financial-assistance.html" target="_blank">Financing available upon credit approval with payments as low as $200 a month. Click here for more information! </a></p>
+                                </div></td>
+                              </tr>
+                            </table>
+							<p>&nbsp;</p>
+							<p style="margin-bottom: 0;">&nbsp;</p>
+							<h1 style="margin-top: 0;">Meet Our Staff</h1>
+                            <p class="style12">Katie Polsky, Ph.D - Clinical Director </p>
+                            <blockquote>
+  <p><span style="color:#000000;">Dr. Polsky  is our Clinical   Director</span> and has been involved in the research, outreach, and the   treatment of eating disorders for over a decade.&nbsp; She has extensive experience   working with men, women, adolescents, and children with Anorexia, Bulimia, and   Binge Eating Disorder.&nbsp; Dr. Polsky has worked in all levels of eating disorder   care including: residential (Oceanaire Residential Treatment Program and Center   for Discovery and Adolescent Change), partial hospitalization, and intensive   outpatient programs (Summit Eating Disorders) as well as on college campuses   across California (Caltech and Humboldt State University).&nbsp; Dr. Polsky uses a non-diet   approach (intuitive eating) and has worked with individuals with binge eating   disorder in the pre and post bariatric surgery population.&nbsp; She also has   specialized training in working with the LGBTQ community, women&rsquo;s issues, and   with survivors of trauma. Her research interests include treating eating disorders in minority   populations particularly with gay men and lesbian women. Clinically, 
+    <span style="font-size:15px;color:#333333;">As   a recovered individual herself, Dr. Polsky feels that it is very important to   individually tailor each client&rsquo;s treatment plan to his or her own individual   needs.</span> She   utilizes relational and psychodynamic theories while integrating cognitive   behavioral, systems, and experiential therapies in her practice. 
+Dr. Polsky has specialized training and experience using the Maudsley Method for adolescents   and their families.</p>
+  </blockquote>
+<p class="style12">Avril Swan, MD - Consulting Physician </p>
+<blockquote style="margin-bottom: 0;">
+  <p class="content">Dr. Swan is a Board Certified Family Physician. She has been practicing medicine in San   Francisco since 2000. She attended medical school at the Mayo Clinic in   Rochester, Minnesota, and completed her residency at the University of   California, San Francisco. Dr. Swan has a special interest in eating disorders   and nutrition and has been seeing patients with eating disorders in her private   practice since 2003.<span style="font-family:Times New Roman;font-size:15px;">&nbsp;</span></p>
+  </blockquote>
+<p style="margin-top: 0;"><span class="style13 style14">Kelly Girard, RN, CMT - Staff Nurse</span></p>
+<blockquote>
+  <p> Kelly  is a Registered Nurse and a Certified Massage Therapist who began working with  eating disordered patients in 2005, at Summit Eating Disorders and Outreach  Program. Kelly is diligent in assessing&nbsp;and communicating concerns with  primary care physicians to help ensure medical stability of patients. She has a  compassionate approach to patient care and believes in providing an educational  component for clients&nbsp;to better understand and care for their bodies.    She incorporates massage in her practice to help  individuals feel connected and more in tune with their bodies. Drawn to the  ideals of individualized, balanced, and preventative medicine, Kelly is  beginning a master&rsquo;s program in Ayurvedic Medicine. When Kelly is away from New  Dawn she enjoys the outdoors, traveling and spending time with her family. </p>
+</blockquote>
+<p class="style12">Shelly Starrett, MS, RD - Dietitian </p>
+<blockquote>
+  <p>Shelly Starrett is a Registered Dietitian specializing in eating disorders. She   earned her Bachelors Degree in Dietetics and a Masters Degree in Human   Nutrition. She began&nbsp;her work&nbsp;in the field of eating disorders in 2005,&nbsp;treating   adolescents and adults&nbsp;at Summit Eating Disorders and Outreach Program. She  has also treated those suffering from anorexia and bulimia while working at Kaiser Hospital since 2002. Having extensive experience in this field, she   began a Private Practice with the focus of eating disorders in early 2009. Her   goal is to&nbsp;help clients restore and maintain healthy&nbsp;relationships with food while simultaneously appreciating and feeding their bodies. Shelly is a member of the   American Dietetic Association and is currently studying for a second Masters   Degree in Holistic Nutrition to expand her breadth of expertise even further.</p>
+</blockquote>
+<p align="center"><span class="style15" style="margin-top: 0; margin-bottom: 0;"><u>Residential Staff </u></span></p>
+<p class="style13 style14">Linda Shanti McCabe, Psy.D - Residential Program Coordinator </p>
+<blockquote>
+  <p class="content">In 1999, Dr. McCabe completed her Master's degree from in  Counseling Psychology from New College and then went on to obtain her doctorate  at Meridian University in Clinical Psychology. She also completed training with  an Expressive Arts practitioner in Anna and Daria Halprin's Body Portrait  process using art-making, movement, and writing to re-image the body. She has  experience in working in residential facilities (Baker Places, Bayside Marin)  as well as an Intensive Outpatient Eating Disorder facility (Ohlhoff) working  with clients recovering from anorexia, bulimia, and compulsive/binge eating.  Dr. McCabe has presented her doctoral work at conferences including Summit  Eating Disorders conferences, the National Expressive Arts Therapy conference,  and Eating Disorder Recovery Services. Since 2006, she has worked in hospitals  such as Langley Porter Psychiatric Institute facilitating skills-based DBT and  Expressive arts groups for clients recovering from eating disorders and  comorbid diagnosis. Dr. McCabe opened a private practice specializing in eating  disorders in 2007, and is excited to be joining New Dawn's Clinical team. She  finds eating disorder recovery work to be a labor of love, of which she feels  honored to be a part.</p>
+  </blockquote>
+<p class="style13 style14">Lauren Rogers, RN - Staff Nurse </p>
+<blockquote>
+  <p>Lauren is a Registered Nurse with a Bachelor of Science in  Nursing and a Bachelor of Arts in Fine Arts and Communication. After studying  Art History and receiving her BA in 2003, Lauren realized she wanted to combine  her love for the liberal arts with the art of psychology and helping others.  Lauren received her BS in 2008 from Mount Saint Mary&rsquo;s College in Los Angeles. After doing  extensive rotations on UCLA&rsquo;s eating disorder unit, Lauren realized she wanted  to begin her career as a psych nurse particularly in the field of eating  disorders.&nbsp; Lauren understands the  complex disorder and enjoys being part of a team that promotes compassionate  healing and therapeutic persistence. The last couple years, Lauren&rsquo;s worked as  a counselor and Registered Nurse at The Center for Discovery. Here Lauren ran  multiple groups, such as Relaxation, Self-Esteem, and Psychological Education  as well as providing incessant nursing care. When Lauren is away from New Dawn,  she enjoys walks in the city, reading, going to movies, and spending time with  family and friends.</p>
+  </blockquote>
+<p class="style12" style="margin-bottom: 0;">Lisa Booth,  RD &ndash; Dietitian</p>
+<blockquote style="margin-top: 0;">
+  <p style="margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;">&nbsp;</span></span></p>
+  <p style="margin-top:0;">Lisa Booth is  a Registered Dietitian, as recognized by the Commission on Dietetic  Registration.&nbsp; She received her Bachelors  Degree in Foods and Nutrition at San Diego State University then went on to  complete her accredited dietetic internship program at Patton State Hospital, a  major forensic mental health hospital in Southern California.&nbsp; Lisa has residential experience through  interning at the Montecantini Eating Disorder Center in Carlsbad, California.&nbsp; She has focused her education and experiences  on eating disorders by completing her major case study on an eating disorder  patient, attending various related lectures provided by the International  Association of Eating Disorder Professionals, and self study on the subject.&nbsp; Lisa has been providing one-on-one nutrition counseling  and nutrition education since 2005.&nbsp; She  truly has a passion for treating individuals with eating disorders in order to  help them learn to build a healthy relationship with food and live a better  quality of life.&nbsp; Lisa has been a member  of the California Dietetic Association and the American Dietetic Association  since 2005, and the Bay Area Dietetic Association since 2009.&nbsp;</p>
+</blockquote>
+<p class="style13 style14" style="margin-bottom: 0;">Alecia Singer, LMFT, RYT - Staff Therapist </p>
+<blockquote style="margin-top: 0;">
+  <p style="margin-top:0;margin-bottom:0;"><span style="font-family:Times New Roman;font-size:16px;">&nbsp;</span></p>
+  <p style="margin-top:0;">Alecia Singer is a Licensed Marriage and Family Therapist  with a Masters Degree in Counseling Psychology, specializing in expressive arts  therapy. She is also a Registered Yoga Teacher. For the last ten years, she has  been working in a variety of clinical settings with adults, children, families  and groups addressing issues of trauma, addiction, eating disorders and body  image. Most recently, she was in practice at the APTED (Association of  Professionals Treating Eating Disorders) clinic in San Francisco from  2007-2009. Alecia believes that optimal health comes from integrating body,  mind and spirit and incorporates expressive arts therapy, movement, guided  imagery and mindfulness into her therapy practice.</p>
+</blockquote>
+<p align="center" class="style15"><u>Intensive Outpatient &amp; PHP Staff </u></p>
+<p class="style12">Jamie Lopez , Ph.D - Staff Psychologist</p>
+<blockquote>
+  <p> <span style="font-family:Tahoma;">Dr. Lopez received her PhD from the University  of North Texas. She did a one year internship at Texas A&amp;M University  Counseling Center specializing in eating disorders and leading body image  groups. She also completed a post-doctoral fellowship at the University of San  Francisco Counseling Center with an eating disorder treatment focus. Most recently, Dr. Lopez  worked at the Charis Center, an eating disorder treatment facility in  Indianapolis, where she was involved in a partial hospitalization program  leading several treatment groups as well as providing individual and family  therapy. After moving to the Bay Area she continues to focus on eating disorder  treatment using an integrative approach with cognitive behavioral strategies. &nbsp;She is a member of the American Psychological  Association and the Santa Clara County Psychological Association.</span></p>
+  </blockquote>
+<p class="style13 style14" style="margin-bottom: 0;">Christine Pappas,   Psy.D - Staff Psychologist </p>
+<blockquote style="margin-top: 0;">
+  <p style="margin-top:0;margin-bottom:0;"><span style="font-family:Times New Roman;font-size:15px;"><span style="color:#1f497d;">&nbsp;</span></span></p>
+  <p style="margin-top:0;">Dr. Pappas earned her Masters Degree in Clinical Psychology   in 2003 and a Doctorate Degree in Clinical Psychology in 2005 both at Argosy   University, Bay Area.&nbsp; In 2008, she became a Licensed Clinical Psychologist in the   state of California.&nbsp; She has worked in a variety of clinical settings, as well   as worked with a variety of individuals, couples and families.&nbsp; Throughout the   years Dr. Pappas has worked with people suffering from addictions, mood   challenges, relationship issues, physical illness, as well as life stressors.   &nbsp;Her treatment repertoire consists of Cognitive Behavioral Therapy, Family   Systems Approach, Narrative Therapy, Psychodynamic, Art Therapy, and Mind and   Body Connection.&nbsp; Her&nbsp;intention is to help foster personal growth and help   individuals to create a healthy and supportive community so one may   flourish. </p>
+  </blockquote>
+<p class="style12">Amy Horn, LMFT - Art Therapist </p>
+<blockquote>
+  <p><span style="font-family:Tahoma;">Amy Horn is a licensed Marriage &amp; Family Therapist who  received her master&rsquo;s degree in Marital &amp; Family Therapy, with a  specialization in art therapy from the College of Notre Dame in 1991.&nbsp; She has extensive experience as a group  psychotherapist and previously led expressive art therapy groups and self  empowerment groups at New Dawn Eating Disorders Recovery Center from August  2005 through December 2008. Amy was a clinical supervisor at Family Service  Agency of Marin working in the substance abuse/recovery department from 2005  through 2007. She currently specializes in women&rsquo;s issues and art therapy in  her private practice, in San Francisco and San Anselmo, CA. Amy is a member of the California  Association of Marriage &amp; Family Therapists. </span></p>
+</blockquote>
+<p><span class="style12" style="margin-top: 0; margin-bottom: 0;">Anita Acevedo, Certified Rolfer,  LCSW - Movement Therapist </span></p>
+<blockquote style="margin-bottom: 0;">
+                              <p style="margin-bottom: 0;">Anita Acevedo is a Certified Rolfer who received her degree from the Rolf Institute in Boulder, Colorado in 1999. Her work as a Rolfer has taught her how the body&rsquo;s health profoundly impacts all physiological and psychological processes. Her training in yoga and meditation deeply inform her movement therapy groups, as does her background in mental health. In 1992, Anita completed her Masters in Social Work from the Carver School of Social Work in Louisville, Kentucky. For many years, she provided psychotherapy to adolescents and adults in both inpatient and outpatient settings. Currently, when she is not conducting movement therapy groups at New Dawn, Anita can be found at her Rolfing private practice in Tiburon, CA.</p>
+                    </blockquote>
+                                                        <blockquote style="margin-top: 0;">&nbsp;</blockquote>
+                    <p style="margin-bottom: 0;">For available positions within New Dawn Eating Disorders Recovery Center, please visit our <a href="http://www.newdawnrecovery.com/EDJobPositions.htm">Available Positions</a> page. </p>
+                            <blockquote style="margin-top: 0; margin-bottom: 0;">&nbsp;</blockquote>
+				<!-- InstanceEndEditable --></div>
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    <td class="right_shadow"><img src="../_IMAGES/Templates/www_ed/gradient_shadow_right.gif" width="13" height="458" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="tmpl_footer">
+  <tr>
+    <td><img src="../_IMAGES/Templates/www_main/footer_bottom.jpg" width="928" height="29" /></td>
+  </tr>
+  <tr>
+    <td><table width="870" cellpadding="0" cellspacing="0" border="0" id="tmpl_footer">
+        <tr>
+          <td valign="top"><div id="footer_left"><span id="footer_txt">&copy; Copyright 2004-2010 New Dawn Recovery Centers - All Rights Reserved Worldwide.
+		  <br /><a href="privacy-policies.html">Privacy Policies</a> | <a href="contact-us/index.html">Contact Us</a></span></div>
+            <div id="footer_right"><img src="../_IMAGES/templates/www_main/footer_carf.gif" border="0" /></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1098580-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>
